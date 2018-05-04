@@ -1,0 +1,410 @@
+1. Description of the Beneficiary's Position Abroad :- Indicate whether the beneficiary's position of Senior Technical Architext aborad is managerial, executive, or involved specialized knowledge;
+
+How many and the types of employees does Mr. Gogia manage or direct?  
+===================================================================
+Application Enablement program given its magnitude, it works in a matrix form of an organization. While Anil Gogia manage these from delivery prospective in these teams, he provides direction to all developers on technical areas and he owns all the technical decisions taken in relation to the architecture, designs, best practices & coding guidelines etc.
+He manages technical team members from AE delivery prospective.
+
+
+
+AE overview and critical role in UHG :-
+=======================================
+In UHG we have applications which helps Members and their dependents, Providers - Physicians-  Preventive Care Providers and Specialists, Nurses, Diagnostics Laboratory, 
+Radiological Laboratory, Pathological Laboratory, Hospitals etc. to enroll patients and to manage patients medical history, treatment, Drugs and Financial part - Health Saving Accounts, 
+Flexible Saving Accounts, Claims Information and Management.
+Each Business application caters to a particular business segments and functionalities. i.e. Claims Processing system, Member Enrollment, Member Eligibility Systems, Medica.
+
+Application Enablement project acts as a connector/integrator for varios business applications meant for a specific business functionalities. 
+To connect various business application together so that it can work as an ecosystem, individual who is part of Application Enablement team must knows each individual 
+system business knowledge in very deep way, so that they can integrate those systems.
+Application Enablement interacts with various applications and its mandatory to know various business knowledge of these applications in order to develop and enhance 
+business functionalities of Application Enablement. 
+
+Application Enablement United Programming Model (UPM) is the UHG standard for accessing data stores and systems, giving a consistent business answer across clients. 
+The program establishes the infrastructure including migration of existing UNET and COSMOS services. UPM is a multi-layered Service Oriented Architecture (SOA) 
+based re-architecture project which eliminates the Mercator layer by introducing Websphere Message Broker (WMB) layer to communicate with the legacy backend system (e.g mainframes). 
+UPM caters various client application (B2B, B2C, myuhc.com etc) requests in a consistent and a seamless manner.
+
+
+
+
+Anil Gogia Role and various other business applications knowledge :-
+====================================================================
+Anil Gogia, is working as a Senior Technical Architect in Application Enablement. Whose responsibility is from Business Analysis, Architecting, Designing the system to implementation of Health Care Systems. His role is mix of HealthCare Business and Technical where he needs to not only vision where we need to automate and make our system accessible for all our stakeholders ranging from Customer, Providers and Staff to save every information of Patients and treatment records by following all complaince of rules and laws.
+ 
+
+Anil Gogia has worked on various United business application during his stays in United. His in depth knowledge of various united business applications helped him to develop 
+UPM 3 framework. This framework gives capability to consumer to manage their financial accounts for spending their health savings by comparing varius available diagnostic options.
+With this framework consumer can manage all their ....
+
+Following are few of the applications which Anil Gogia has deep knowledge on. Anil Gogia, has worked on these UHG based proprietary applications directly or indirectly in the past. 
+Here are few liners about Application Enablement related applications (applications which integrate with AE/UPM):
+
+1. Employer e services(EES) :-
+Anil Gogia has developed end to end business work flow of Employer Portal which allows Employer can manage their employees insurance. 
+He knows ins and outs of employer portal application business applications.
+
+2. UHC Online :- 
+UHC Online is provider's portal most of the users here are providers or third party users who act on behalf of  providers here they can submit claim, notification or referral for a patient
+also they can check that for what benefits user is eligible.
+
+2. CAMS :- 
+
+3. COSMOS :-
+
+4. TOPS :-
+
+5. NDB :-
+
+6. Optum Rx :-
+
+7. ODIN :-
+
+8. OISP :-
+
+9. ISET :-
+
+10. ILEAD :-
+
+11. MYUHC :- is United portal for member. Helping People Live Healthier Lives. Portal helps to request a quote and find a plan matching member health needs. 
+It member allows to get an individual or family quote. to find an individual or family plan, request an Employer group quote and find Employer group plans.
+Application have four actors which are Member, Employer, Broker and Physician login. Anil Gogia has worked with this application to consumes AE business services which helps in providing health care plan informaton, claims information and to feth member health account information.
+
+MyUhc provides valuable set of online tools and resources that help you manage your plan benefits, get more out of your health care and improve overall wellness. MyUHC provides summary of your  ID no. and coverage which comes in handy when making a doctor's appointment. You can view claims, activity and estimate out of pocket cost, look up benefits, find the doctor based on your medical condition or the procedure you need, view prescription and then a free home delivery, check your a/c balance to see if you met your deductible, chat with live nurse and more
+
+
+12. EVP :-
+
+13. B2B :-
+
+14. B2C :-
+
+15. EDSS :-
+
+16. CDB :- 
+
+
+2. Duties Aborad :- Submit a more detailed specific description of the beneficiary's duties abroad. Identify the percentage of time required to perform the duties. 
+In addition, please address the following :
+. Position Involving Specilaized Knowledge : If the position of Senior Technical Architect is a position which involves specialized knwoeldge, list the beneficiary's primary 
+duties rgar involve specialized knowledge. Indicates why others have not acquired this "special" or "advanced" 
+level of knowledge of your company's equipment, system, product, technique, research, service; and/or processes or procedures; and explain how the knowledge involved in the 
+position is different than other Senior Technical Architect employed by the foreign company or others employed in similar positions in the industry.
+
+[Optional] Provide evidence to establish that the beneficiary as a Senior Technical Architect has a commanded a high salary or other significantly high renumeration for services 
+compared to others in the same industry 
+because of his/her "special" knowledge of your equipment, system, product, technique, or service; or an "advanced" level of kbnowledge of your company's processes and procedures.
+
+Anil Gogia special skills :-
+============================
+
+
+Anil Gogia has developed a UHG proprietary Framework, UPM3 to compare configuration documents with database of multiple environments and this Framework is required on most of the healthcare applications and hence Anil Gogia is the most suitable for this position. Anil Gogia has developed United Programming Model 3 (UPM3) framework which he build after his experience with Business services of United Programming Model. He build new UPM 3 framework using Modular OSGI Runtime Container (MORC) and developed underlying MINDI Framework. Since United Programming integrate various business groups of United ranging from Member Enrollment, Comparison of various treatment across various Providers with in a particular location,
+Pharmacy, Benefits, Fraud detection.
+
+Anil Gogia has developed Configuration Validation tool,Web Service Framework, Test Data Management tool for UHG proprietary applications as part of UPM3 Framework, so he knows all the technical aspects of automation and the business needs and thus has already proven his skills in this area. He is most experience person in the team having expertise in configuration validation with multiple databases for different UHG proprietary applications. Since this project required a great understanding of UHG proprietary applications (Healthcare applications) and this Framework need to be customized for each and every health care applications, a person having comprehensive experience in both areas is required. There is nobody else in the team having the same experience on Configuration Validation tool as Anil Gogia. 
+
+
+Issues with current UPM 2 Framework :-
+Currently all AE business services are designed according to UPM2 Framework. Where all 800 plus AE Business services are packeged into a single unit - Enterprise Archive file (EAR). 
+With moving to UPM3 framework, Organization can achieve reduce overall cost and time and will increase quality and robustness of AE bisiness services.
+
+Following are issues with the curent framework and UPM3 Framework is answer to all issues what Business Segment faces.
+1. Frequest application down time :-
+Whenever there is need of change of any single Business service, then we have to shut down this packaged unit (EAR) file, which results into shud down of all 800 plus services.
+Since Application Enablement acts as Connecting system of the United Organization which deals with all business units, and has more than 800 plus business services, 
+so almost every week we have to do two production deployment so that we cann includes all changes comes from variosu Business segements becuase of change of their Business needs.
+This results in downtime of every business segment whenever we make any change as all services get down during production release of package units - Enterprise Archive (EAR) file.
+
+Downtime results into :- 
+a) Loss of Business availability and Trust during downtime.
+b) Leads to increase Cost, Time and Effort and leads low quality :- With every production deployment results in Cost of engaging Infrastructure Team, Release Management Team, 
+Development Team, Change Management team and Production support team for checkout and verifying services after post deployment. 
+We need to engage all teams for verifying all their Business services health irrespective of whether they requested for the change of Businwss services or not as all services are packed into a single units.
+
+2. Securing each servics individualy :-
+Securing data is critical and Healthcare Provider have to abide laws to secure Personal Health Information. Its importanty for all Healthcare Provider to not only insure health of their Customer but also make sure their customer data should be accessible to them only so that no misuse and strictly restrict unauthorize data access.
+Since Data can be is the most important part of any business group, which should be allowed to access to only authorized person or group of persons of a business segment, UPM3 is providing an extra secure layer for all underlying access with in build framework along with hightly technical tools and standards provided by IT Leaders like IBM datapower.
+With UPM 2 we have generic way of securing AE business services and which lacked securing each services individualy for each business segments. With the HIPPA law it is required to secure each AE business service.
+New framework UPM 3 make each AE service to be access through WS-Security framework, which will be allowed through UHG policy and through Datapower. To secure a particular service for a particular person or group of persons of a business, UPM3 service embed varios businness rukles which determines whether it is allowed for all underlying services under AE business service or a particular workflow services.
+
+3. Configurable business rules :- changing services on fly without need
+4. Integration to various business segments :- ranging from various health care domain orrespective of underlying technologies.
+5. UPM 3 can run multiple versions of individual business services
+6. Client applications can use the version of the business service they need :- No forced upgrade to newer version when the service itself has not changed.
+7. Bug fixes can be deployed independently - Since each bundle is deployed separately, there is no need to force bug fixes to all go together as a package, alleviating sign-off problems.
+8. New releases can happen any time. Services are no longer tied to a quarterly release, so off-release service development can be more easily accommodated
+
+With his proposed UPM3 Framework, he successfuly integrated it with Member Portal business segment as a proof of concepts.
+With his good business knowledge of Member Portal. He is able to integrate the following business functionaliies in Member portal that helps Member to 
+a) review their claim information - View your claims and Access claim forms
+b) find a physician or facility with in their area using zip number
+c) view their policy covered benefits 
+d) update or manage their account information 
+e) find health information 
+f) print temporary health plan ID cards and more
+g) Locate a pharmacy, refill a prescription 
+h) View your account balances for Health Reimbursement Account, Health Savings Account and Flexible Spending Account(s) 
+i) Estimate health care costs 
+j) Take a health assessment 
+k) Create and view your Personal Health Record 
+l) Look up health topics 
+m) Work with an Online Health Coach 
+n) Find out about extra programs and discounts 
+o) Set up direct deposit 
+p) Change your mailing preferences 
+q) Establish automatic payment options and more 
+
+UPM application for Member Portal business application emphasize on awareness and promoting innovative wellness tools. 
+Primary goal of this application is to bring a greater level of parity to the quality of health care and health coverage for African Americans.
+The Generations of Wellness health initiative is included in every UnitedHealthcare plan at no additional premium.
+
+Member Portal application provides Health Tip Flyers addressing conditions that disproportionately affect individual such as high blood pressure, high cholesterol, diabetes and obesity. 
+It design Family Health History Tree to help document and track potential hereditary conditions. 
+Application's Family Reunion interactive tool created to help members make healthy choices regarding nutrition, weight management, exercise and annual checkups. 
+It is a customized website highlighting best practices in navigating your health plan and working with your doctor And Access to healthy recipes, offering an alternative to preparing traditional home cooked meals. 
+Ongoing campaigns for both employers and their employees, including health fairs, seminars and more. 
+
+This application allows member to personalize health checks. At united we believe in Health is wealth and prevention is better than cure. 
+Application main objective is to focus on Prevention of any disease by promoting and educating various programs which includes Healthy life style, food habits, exercise and routines.
+
+Application educate members about Health coverage basics which includes How does health coverage works, Finding Health coverage that's right for you, 
+why do costs keep rising, how can you manage your pharmacy benefit, basic definitions and terms used in common health coverage.
+It educate member about how to navigating their health plan - Getting the most of your plan benefits, Make the most of your doctor visits
+
+
+Anil Gogia also is the senior most person having experience and skills required for this work. Anil Gogia was the one who initiated development of automation framework solution on Web Service automation and automation solution for Test Data Management to cater to UHG application needs. Other people in the team do not have enough knowledge and hands on experience on the tools developed by Anil Gogia. Moreover, during his tenure of 96 months, Anil Gogia has acquired comprehensive knowledge of the UHG business and proprietary applications to support this automation framework. As is evident from the team information below, Anil Gogia is considerably more experienced on the specific framework that need to be implemented on this assignment in UHG than others in the team. 
+
+
+Anil Gogia Main responsibility is :- 
+====================================
+1. Analyzing the new business requirement from the healthcare industry (20%) because of :-
+ a) Business Expansion because of market needs and business dymanics and companies mrgers and acquisition vision.
+ b) Members needs for new Portal or system for 
+ 		- managing their claims information, 
+ 		- selecting Health Care Providers for a Diagnostic and Primary care and Specialized Treatment for the particular disease
+ 		- Total Cost Estimator tool :- To compare treatment and cost of a particular disesase which can help them to select a Good Hospital/Lab/Physician with minimum cost
+ 		- To compare two specialist and their previous experience and expertize in a specific disease preventive, prognosis, treatment.
+ c) Providers to manage their patients records by following all legal rules and laws as per HIPPA(Health Information Protective and Act) etc.
+ d) Business Analyst to see where all we store claims information of a particular business segement across various policies. 		
+ 
+2. Assessing 2-3 major client business application and backend data provider system configuration and its corresponding applications for Health Care systems. (15%)
+3. Write and propose each business application specific automation, configuration validation and integration strategy based on his expertise (15%). 
+4. Gather requirements from business team stakeholders (15%)
+5. Develop prototype design for each UHG proprietary applications (15%). 
+6. Develop solution for configuration validation and its corresponding applications.(20%)
+
+Anil Gogia Specialized skills :-
+================================
+
+Comprehensive experience is required on UHG business, different UHG proprietary application automation, configuration models and interaction and integration with clients owning health care application with multiple configurations to carry out this assessment. Apart from Business rule Engine Automation, Configuration Validation tool, Test data management strategy as part of UPM3 Framework, Anil Gogia has experience in each Consumer Buisness process and domain process knowledge as well. No one in team has the same level of experience as Anil Gogia who has skills in different consumer and provider automation area. Anil Gogia is the only person suitable to perform this assessment. 
+
+ 
+ 
+Anil Gogia did his Graduation (of five and half years) in Medicine and he is Academy of Healthcare Managment certified from US which shows his expertize command over HealthCare Systems. He is associated with United HealthGroup Systems for 8 years and worked with various applications.
+His Medical healthcare knowledge helps him to understand of Patients/Members and Providers needs and his Technical knowledge helps in implementing the system needs to Automation by developing Software.
+These skills makes him unique and critical for AE department as he is the only single person who knows Medical HealthCare Business and responsible for designing, architecting and implementation of new UPM 3 Framework which can lead to easy usability and will make UPM3 services more efficient. 
+
+There are no others at his level with the same skill set.  This is the proprietary tool designed, architected and developed by Anil Gogia so he is the only person with adequate knowledge/skill for this position. He is the only person developed UHG proprietary tool for healthcare application configuration validation as well as he is having expertise in framework architecture and web service automation solutions.  In addition to being the developer for the UHG proprietary health care application’s Configuration Validation tool, he was also the developer for Web Service automation framework and solution for Test Data Management. All these solutions need to be integrated as part of this project. Since only Anil Gogia has comprehensive knowledge of all componenets of UPM3 UHG proprietary framework, he is the best person for this position
+
+Because He is the only person who developed UHG proprietary UPM3 Framework, Automation Configuration Validation tool under guidance of Jeff Melby the chief enterprise architect. Anil Gogia will be doing hands on implementation with our Chief Architect Jeff Melby. 
+
+This UPM3 Framework has enabled UHG to validate the configuration of business rules pertaining to the plan and products being applied in different UHG systems much faster than the earlier methods (about 1000 configuration validations are compared in 1 hr. as compared to about 20 validated in 1hr manually). Thus UPM3 Framework can provide significant efficiency and cost savings once implemented on other UHG health care systems hence keeping UHG more competitive in the market in terms of cost.
+
+
+For the last 8 years he is working with Application Enablement Project where he is very well versed with United HealthCare Business applications and 
+The mix of these Functional and Technicakl skills help him to understand need very well as compared to any existing team either at onshore or offshore.
+
+
+It is taken Anil Gogia about an year to develop this UPM3 Framework during this time he has also learnt from his experience of implementing this UPM3 Framework on some UHG proprietary applications(Health Care applications) hence this knowledge cannot be adequately transferred to any other candidate within the short period of time. Moreover since this job requires integration of other tools (AE Expeienece, MORC anmd MINDI) as part of UPM developed by Anil Gogua, the knowledge cannot be transferred to any other person in a reasonable amount of time.
+
+
+Why Anil Gogia only :-
+======================
+At least 16-20 months of hands on experience is required to be able to completely own this tool. Since this is in-house developed UHG proprietary UPM3 Framework - Automation, Configuration Validation tool, it is not in market and even the person being trained need to have at least 5-7 months of experience in each of UHG business applications domain knowledge along with technical and process knowledge of each specifuc healthcare domain. And it can be learnt only through hands on experience. In addition another 5-6 months of hands on experience is also required on other tools(AE Experience tool - for fetching business service error logs from server to diagnose the service work flow and issues in run time, AE SUIT tool - to adminsiter UPM busness services) of UPM3 Framework that need to be integrated.
+
+
+This Framework needs to be customized for various health care applications of multiple business client and backend provider applications and hence need a close collaboration with the business stakeholders who are based in U.S. Since working with these stakeholders require alignment of the shift timing to U.S. time, it is not possible for Anil Gogia to perform this work while being in India. Moreover, continuous interaction is required with these stakeholders and will be more effective if had face to face as lot of minute details need to be pondered over to correctly implement this tool on the respective applications.
+
+
+Position involving Specialized Knowledge :-
+===========================================
+Anil Gogia is looking after the technical delivery of the Application Enablement program from offshore. He provides the technical oversight to the offshore team.  Given his knowledge on varied internal systems, his support to enterprise wide programs like UPM, WMB is very critical. His technical leadership is being highly valued by various stakeholders. He was once awarded UHG’s most prestigious award ‘Sustaining Edge’ for his technical delivery excellence and leadership for AE Business Enterprise Services that he built.
+October 2014, He received ‘Best Technology Manager’ for his work on UPM3 Frameowoek successful integration with Member Portal as Proof of Concepts.
+
+
+
+Anil Gogia knowledge is helping UHG competitiveness in the market place.
+Anil Gogia knowledge of the Application Enablement UPM Framework system that make it “special” and how it is applied in the international marketplace.
+========================================================================
+Anil Gogia, has been working with UHG from more than 8 years by now. He has worked and gained a lot of functional knowledge on various UHG based proprietary applications like ISET, ILEAD, ODIN, EHP, MYUHC, B2C, OptumId etc. These application has a direct integration with AE application. Currently, UPM3 Framework is going through a pilot phase, where it integrates with a limited set of UHG based proprietary applications. Post pilot phase, UPM3 framework is expected to get integrated with a lot more UHG based application. Having someone with such a disparate knowledge on these platforms will definitely be a big plus.  Anil Gogia seems to be a perfect fit in this role.
+
+
+Special skills - not generally found in the Industry :-
+The RFE specifically requests that Anil Gogia explain why his duties require specialized knowledge and why others in the Company can’t perform them. 
+======================================================================================================================================================
+Duties require special knowledge because the Application Enablement's UPM3 and WMB broker(Websphere Message Broker) application which Anil Gogia is working on interacts with various UHG propriety backend  systems. A deep knowledge about these backend systems is absolute must to be able to leverage and integrate these backend systems with Application Enablemeny application. Anil Gogia, has gained this knowledge about different UHG propriety systems while working on various different projects within UHG in the past. This knowledge becomes extremely valuable while working on Application Enablement application.
+
+
+3.Foreign Organizational Chart:- Submit a copy of the foreign company's line and block organizational chart, showing the organizaional hierarchy and staffing levels 
+ONLY for the beneficiary's immediate hierarchy, associates and subordinates. List all employees in the beneficiary's immdediate diision, department, or team by name, job title, summary 
+of duties, educational level, and salary. Clearly identify the beneficiary's position in the chart.
+
+
+
+
+4. Evidence that the Beneficiary has Specialized Knowledge
+
+a) Evidence to support thar the knowledge obtained by the beneficiary's knowledge, education, training, and employment is "special" or "advanced".
+
+How beneficiary's obtained those knowledge :-
+=============================================
+Anil Gogia, has been on Application Enablement program right from its inception.  Application Enablement program is categorized into several bundles/tracks 
+like Core UPM, WMB, FF, AE Experience, MINDI, MORC Core, Analytics & Exchanges etc. Of these track UPM MORC Core is a horizontal track that serves as a technical enabler 
+for the other tracks. Anil Gogia was instrumental in putting together a framework that made the development much smooth and he continues to provide technical guidance across the spectrum. 
+Apart from this, he is also learned Hadoop and is working on PoCs having seen the potential of Hadoop within the Analytics track. 
+
+b) description to compare and contrast the beneficiary's knowledge, education, training, and employment with others employed in the industry performing the same or 
+similar type of work.
+
+
+c) Your description of beneficiary's design and development of tools which helped "in triaging the production issues quickly and was later recognized as 
+a remarkable achievement for the project" is not supported by any evidence.
+
+
+5. Description of Specialized Knowledge :- 
+
+
+
+Why Anil Gogia :-
+=================
+Since Anil Gogia has understands needs of these appplications and has great in depth knowledge of UHG in built applications and products, its very easy for integrate and implement these appliication business with Application Enablement business anf clients.
+Suggested description of Beneficiaries position abroad:-
+
+Anil Gogia did his Graduation in Medicine and he is Academy of Healthcare Managment certified from US which shows his expertize command over HealthCare Systems. He is associated with United HealthGroup Systems for 8 years and worked with various applications.
+His Medical healthcare knowledge helps him to understand of Patients/Members and Providers needs and his Technical knowledge helps in implementing the system needs to Automation by developing Software.
+These skills makes him unique and critical for AE department as he is the only single person who knows Medical HealthCare Business and responsible for designing, architecting and implementation of new UPM 3 Framework which can lead to easy usability and will make UPM3 services more efficient. 
+
+He is the only person across all locations in the organization who has knowledge of various Business applications ranging from Employer Portal, Member Portal to Claim Processing and Claim and Fraud detection.
+Since he has exposure to these business applicxations during his stay in United.
+
+
+
+Anil Gogia work in US :-
+========================
+Anil Gogia has architected and developed UPM3 Framework and proved benefits of this Framework to Application Enablement department. Application Enablement department adopted his new UPM3 Framework. Since Application Enablement interacts with various business segement, so its critical to let all interacting Business segment to know what all things can be acheieved with this framework.
+After coming to US Anil Gogia main work will be giving demo ( Proof of Concepts ) of UPM 3 Framework to various Business Segement. And understand each specific Business Needs and Rules which is required by them in order to compliance with rules and laws of their Business Segment.
+This requires him to do daily meeting with Business Analyst and sitting with their business analyst, development meeting to implement and customizing UPM 3 Framework for their Business Segment. This can be done by being there personally in US working with them since all meeting requires to be prsent physically there so that all requirement can be gathered by all Business stakeholders of a particular Business Segement and meeting will happen in US time.
+This have to be iterative in nature where frequent meetings are required, so that all requirements can be acquired correctly and demo of the requirement implementation can be given quickly to avoid any missing requirement and deleiuver end product in short time.
+Plan is to complete from requirement gathering to design, architect and implementation for a Business segment not more than 2-3 weeks so that during his stay of 7 months he should cover our 15 bifg Business segments.
+It tooks around 10-12 months for Anil Gogia to analyze what all features are lacking in existing UPM2 Framework and archetecting, designing and implementing this UPM3 Framework. Implementing and reusing this framework will reduce Cost, Time, Effort for all Business Segments.
+He will be customizing this framework for all Business Segement applications like EES, MYUHC, ISET, ILEAD, Optum RX, PTPCR NDB, TOPS, COSMOS, CDB, VAS. 
+He will understand their needs and will be implementing those needs with his proposed new UPM3 Framework. With this single framework used across all Business Segment, United will be able to save the cost in building application rather than building individual framework tightly coupled with each segments.
+
+
+This application gives health tips to their members.Since he has understands needs of these appplications and has great in depth knowledge of UHG in built applications and products, its very easy for integrate and implement these appliication business with Application Enablement business anf clients.
+
+
+
+Description of Duties in the United States :-
+=============================================
+His main resposibility during his stay in United States will be:-
+1. Meeting with All Business Stakeholder for Business Segment to showcase demo of UPM3 Framework and capabilities and 
+2. How this framework can help them to fetch data in the required Business format as per Business specification.
+3. Training of UPM3 Framework, Open Source Gateway Initaitive, AE Logger, AEMQVisualizer tools and domain business knowledge of Consumer and provider applications with various Consumer applications to AE US team.
+4. Meeting with Business Analysts of various Business Segments to understand
+5. Integrating UPM3 framework for Member Enrollment, registration, creating Healthcare plan fetching
+6. Giving training to dev and SA team so that they can customize their applications after successful integration.
+He will be giving training to each Business Segments for this Framework so that each individual team can maintain and enhance and custimize their own without having dependency on Appplication Enablement.
+Plan is to make this framework as Enterprise frmework across all Business Segments.
+
+
+
+why Anil Gogia :-
+=================
+Most of the Existing Application Enablement US team are working on Service deleivery as most of the team members are relatively new. Anil Gogia from entire team worked on designing, architecting and implementation of UPM 3 framework alonmg with AE tool development as these tools are Managing UPM3 Framework administration work.
+
+Anil Gogia is with United for more than 8 years and has exposure of various Consumer and provider appliactions like EES, MYUHC, ISET,ILEAD and COSMOS, NDB, CDB, NDB respectively.
+His learned business domain knowledge of these united application helped him to identify deficiency of UPM2 Framework and given him direction of remove these deficiency by developing single handed new framework UPM3.
+He is able to complete one successful integration of UPM3 Framework with in Application Enablement. Since to reuse the same implementation of UPM3 framework capabilities in Consumer and Provider application it is required to meet various stakeholder of these applications and their priority needs.
+With newer UPM3 framework, Unired will be able to cut down drastic Cost, Effort and Time with reuse most of UPM3 Framework.
+ications is mandat
+
+Copy of foreign entity's organization chart :- 
+==============================================
+Attached are pdfs and below is organization structure of US team.
+
+
+
+
+
+Specialized Knowledge :-
+
+
+
+Anil Gogia will be provide following Training to US team :-
+===========================================================
+
+Training to be provided by Beneficiary in the United States :-
+==============================================================
+Training Details
+----------------				
+Product and Tool						Process						Procedure																	Duration				Service			Research		equipment techniques		
+----------------                                                                        --------
+UPM3 Framework																																					3 weeks
+Open Service Gateway Initiative																													2 weeks
+MINDI(Config app tool)																																	2 week
+AELogger tool																																						1 week
+AeMQVisualizer tool																																			1 week
+Integration of UPM 3 with MYUHC																													3 weeks
+Integration of UPM 3 with EES																														2 weeks
+Integration of UPM 3 with ISET																													3 weeks
+Integration of UPM 3 with ILEAD																													2 weeks
+Integration of UPM 3 with B2B																														2 weeks		
+Integration of UPM 3 with B2C																														2 weeks
+Integration of UPM 3 with TOPS																													2 weeks	
+Integration of UPM 3 with CDB																														2 weeks													
+Integration of UPM 3 with COSMOS																												2 weeks			
+Integration of UPM 3 with NDB																														2 weeks
+
+
+
+Organization Chart :-
+=====================
+We are expanding our US team and most of the team members in US.
+																																					
+																																					Anvita Akhtar (US)
+		----------------------------------------------------------------------------------------------------------																																					
+	  |																													|																								|
+		Anil Gogia (India)			  																Guoguang Chen (US)															Chandra Raini
+			|																												 	|																							|
+			|---Sunil Nagumalla     - Tech Spec												|---Douglas Hassman														|---
+			|																												 	|																							|	
+			|---Ugender Kokkarkonda - Tech Spec											 	|---Vetrivel Mylsami													|	
+			|		(Exp- 2 years)																				|																							|
+			|																													|																							|
+			|---Romil Bajpai				- Associte Lead										|---Robert Jr Rudin														|			
+			|		(4 months)																						|																							|	
+			|																													|																							|	
+			|---Guru Ayodhayanath		- Associate Lead									|---Xiaodong Yao (Peter)											|	
+			|																													|
+			|																													|	
+			|---Sanjay Chaudhary																			|
+			|																													|
+			|---Himanshu Arora																				|	
+			|																													|
+			|---Gaurov Ojha																						|
+			|																													|
+			|---Lakshmi Bommaka																				|
+			|																													|
+			|---Arun Chilamakuru																			|	
+			|																													|	
+			|---Amit Puri																							|
+			|																													|
+			|---Mallikharjun Vemula																		|
+			|																													|
+			|---Grih Prakash Singh																		|
+																																|
+
+
+

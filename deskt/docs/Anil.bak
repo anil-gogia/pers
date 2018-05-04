@@ -1,0 +1,652 @@
+
+Q1 Will the applicant be assigned to a client, vendor, or third-party (non-UHG) work site? If yes, we will contact you to request additional details
+
+No
+
+====================================================================================================================================================================
+Q2 Will the applicant be assigned to multiple UHG sites? 
+
+No
+
+====================================================================================================================================================================
+
+Q3 Describe in detail what this project/technology/application does and why it is important to the Company.  
+
+
+Application Enablement (AE) is one of the critical projects in UnitedHealth Group (UHG) in terms of its visibility and the tasks accomplished. Application Enablement is a Service Oriented Architecture (SOA) based application which exposes its business functionalities through web services and provides reusable business services, frameworks and tools that enable integration between applications across multiple platforms in a consistent manner. 
+
+Application Enablement (AE) is a UHG middleware enterprise service bus for enabling various consumer applications and provider applications for communicating and integrating to each other irrespective of their underlying technologies and platform & acts as life line for communication between dispate applications for fetching claims, providers, eligibility data for the Optum business segments. Application Enablement Enterprise Service Bus is developed for all critical UHG Consumer, Member, Employer and Provider Portal for Optum’s Digital Intelligence Network (ODIN) , Optum Rx Claim, Optum Rx Pharmacy, Ovations, Non Ovations for various Optum Business Integration which helps to provide better decision support for the complex and large Member Portal, Employer Portal, Enterprise Voice Portal, Buinsess to Business (B2B), Business to Consumer(B2C), Optum, Optum Digital Intelligence Network (ODIN), OISP business segements.
+
+It creates, maintain and enhance standard integration paths (could be referred to as an Enterprise Service Bus) along with aggregation, business and transformation services across multiple platforms using technologies that are appropriate for each platform. It enables applications to make services available to other applications across the enterprise using a simple and consistent interface (Service Oriented Architecture) and also provides Technical and Integration expertise to insulate applications from system complexities, platforms and assist with problem determination. It helps in creating opportunities and plans for retiring end of lifecycle integration platforms and also caters around 10-12 millions request per day.  AE provides the infrastructure necessary for integration and standardization across the enterprise, almost every front end and backend system exits in UnitedHealth Group communicates through it. This project is being treated as backbone across the UHG Enterprise projects.
+
+Application Enablement United Programming Model is very big and complex framework of UHG proprietary Middleware Service Oriented technology, consists of following sub team, built on various technologies and framework like OSGI, CXF Web services, MQ Series, WESB, WMB, Mainframe, OSGI Framework, Spring Framework, Hibernate Framework, Datapower XI50/52, and Domain integrated patterns of UHG consumer and provider applications.
+
+Daily Number of Transaction happen on Application Enablement :- 
+1. United Programming Model :- 700-800 million transactions
+2. Webspehere Message Programming :- 900-1100 million transactions
+3. Foundation Framework :- 1200-1400 million transactions
+
+
+1.	United Programming Model Team : JMS and Web services
+2.	Websphere Message Broket Team : WebSphere Message Broker, MQ and little bit of Java
+3.	Foundation Framework team : Mainframe, CICS, MQ
+4.	AE-Experience : JSP, Spring Web Flow, DB2, MQ
+5.  AE Infrastructure team :- WAS Servers, IBM Datapower XI50/52, Compuware Vantage Server, Nagios, Sitescope.
+
+Currently Application Enablement have 55 Consumer applications and it has more than 60 Provider applications to which it interacts.
+
+
+
+This Project Application Enablement enables various applications to communicate each other irrespective of their underlying technologies and platforms. 
+Application Enablement acts as spinal for entire application communication channel. It connects modern applications with legacy and modern and different technologies. AE provides the infrastructure necessary for integration and standardization across the enterprise, almost every front end and backend system exits in UnitedHealth Group communicates through it. This project is being treated as backbone across the UHG Enterprise projects. 
+
+It make AE business services available to other applications across the enterprise using a simple and consistent interface (Service Oriented Architecture). 
+AE business services provides Technical and Integration expertise to insulate applications from system complexities, platforms and assist with problem determination. 
+It helps in creating opportunities and plans for retiring end of lifecycle integration platforms and also caters around 10-12 millions request per day.  
+Application Enablement knows business domain and application knowledge of UHG consumer applications to integrate, which makes this application an unique.
+
+
+====================================================================================================================================================================
+Q4 Was this project/technology/application developed in-house at UHG? In other words, is it proprietary (home-grown)? If not, where was it developed?  
+
+
+Application Enablement produces and maintains in-house. It is UHG proprietary software application build on AE Business domain providing services for Provider, Claims Processing, Appeals and Grievances, Member Enrollment and Management, Enterprise Voice portal.
+
+Developed products like United Programming Model, WebSphere Message Broker Services, Foundation Framework, AE Experience, Modular OSGI Runtime Container (MORC) Framework, MORC Integration Director (MINDI - UPM3 Config) app, SUIT tool, UPM Admin App, AE Logger tool, AeMqVisualizer tool within UHG 
+
+1.	United Programming Model Team : JMS and Web services
+2.	Websphere Message Broket Team : WebSphere Message Broker, MQ and little bit of Java
+3.	Foundation Framework team : Mainframe, CICS, MQ
+4.	AE-Experience : JSP, Spring Web Flow, DB2, MQ
+5.  AE Infrastructure team :- WAS Servers, IBM Datapower XI50/52, Compuware Vantage Server, Nagios, Sitescope.
+
+====================================================================================================================================================================
+Q5. 
+
+
+
+====================================================================================================================================================================
+Q6 Is this project/technology/application available to other companies? If yes, describe how this project/technology/application is unique to UHG.  
+
+No, it is not available to other companies.
+
+Application Enablement Project is UHG Proprietary application purely developed and maintained by UHG and for UHG Business needs. 
+Application Enablement is to develop and support services that orchestrate, aggregate, and provide data access from varied systems across UnitedHealth Group.
+
+AE services may make several requests to data providing systems in order to accumulate a response that is larger than the underlying system can provide, but there may be technical limitations to the number of iterations and the size of the response from the AE service.
+  
+Application Enablement consists of following sub applications :-
+
+1. United Programming Model :- UPM stands for United Programming Model and was part of a larger effort to standardize development process.
+UPM is a build on OSGI, JMS, CXF technologies that provides AE business Web Services to access data across a wide variety of UnitedHealth Group systems. Services include aggregation across multiple systems, routing and orchestration.
+
+2. WebSphere Message Broker Services :-IBM's information broker handling data transformation and routing of messages from distributed applications. Building blocks are message definitions and message flows that define basic rules for data mapping. Primarily uses Web Sphere MQ for communication but may also use HTTP and JMS.Resolves data complexities between disparate systems.
+
+3. Foundation Framework :- UHG standard mechanism to connect to legacy/mainframe application for real time to CICS based services (Foundation Views).
+Originally designed for integration between CICS applications. Evolved to support distributed to CICS and CICS to distributed communication.
+Provides common functions for all transactions i.e Logging, Routing, Monitoring and Configuration.
+
+4. Modular OSGI Runtime Container (MORC) Framework :-composed of Three main components:
+a) Bridge Application: Runs the Felix OSGI container in an application server (e.g., WebSphere). Provides the bridge from application server HTTP threads to the OSGI container
+b) MINDI: MORC Integration Director :- User Interface  for the dynamic configuration capability in MORC. Can be configured to connect to multiple environments. Access business web services in each environment to read and update configurations, no direct DB connection
+c) Core Framework Bundles :- UHG properietary application build on OSGI bundles that provide base functionality: core, configuration services, unit test framework
+Required for the Bridge and MINDI applications to function. Provides Business Framework base classes, interceptors, logging, and many other framework capabilities for service development
+
+5. SUIT tool :- Group of tools required to check connectivity, logging and security of AE backend provider applications.
+ 
+6. AE Logger tool :- Business application to log down AE business services for audit and troubleshooting issue in consumer, AE and provider side.
+ 
+7. UPM Admin App :- Admin application used to administer AE business services for Conusmer and Provider business needs and monitor AE business services health and usage.
+
+8. AeMqVisualizer tool :- Application required to check health status of legacy systems and message queues operations for Network Data Base(NDB), Common Data Base (CDB), The Online Processing System (TOPS) , Cosmos claim engines.
+
+Using various middleware technologies like Message queues (MQ), WMB, Mainframe, Web-service, Nagios, Sitescope, Compuware Vantage Performance and Monitoring Tool, Service Oriented Architecture, Messaging Server, DB2, Open Server Gateway Initiative (OSGI) Framework, CXF Apache SOAP Engine, Webspehere Application Server, Websphere Enterprise Service Bus, Websphere Transformation Extender, CA LISA Itko Virtua;ization tool, HP Quoick Test Proifessional tool .
+
+====================================================================================================================================================================
+Q5 Is this a third party software that UHG customizes? If yes, how does UHG customize this software?  
+
+No, it is not third party software.   
+
+UHG build this entire application end to end build on tools and technologies ranging from Messaging Servers, MainFrame, Java, XML, CXF Soap Engine, Open Source Gateway Initiatives (OSGI), DataPower Firmware and  Messaging Queues and Spring, Hibernate Framework, DB2 dtabase. 
+
+Application Enablement developed and maintained in-house. 
+
+AE Developed products like United Programming Model Fraework, WebSphere Message Broker Services, Foundation Framework, odular OSGI Runtime Container (MORC) Framework, MINDI, SUIT tool, AeMqVisualizer, within UHG using various middleware technologies like Message queues (MQ), WMB, Mainframe, Web-service, Nagios, Compuware Vantage Performance and Monitoring Tool, Service Oriented Architecture, DB2.
+
+
+1. United Programming Model :- Application framework to expose Business services for various busines segment which includes Provider Network, Claims, Pharmacy, Reconcillation, Member Enrollemant Registration, standardize development process. 
+
+2. WebSphere Message Broker Services :- Broker application which acts as bridge between consumer application like Member Portal Provider Portal to fetch claims, health, member, provider information from legacy and modern backend UHG applications like The Online Processing System (TOPS), COSMOS, Consumer Account Management System (CAMS), RXCLAIMS, RXCCR, CDB, OPTUM RX systems, OHBS, FACETS, PHS, UP2S, UNET, CES, PRIME, UFE, Summary Check, ORS, NDB etc disparate systems.
+
+3. Foundation Framework :- UHG standard mechanism to connect to legacy/mainframe application for real time to CICS based services (Foundation Views).
+Originally designed for integration between CICS applications. Evolved to support distributed to CICS and CICS to distributed communication.
+Provides common functions for all transactions i.e Logging, Routing, Monitoring and Configuration.
+
+4. Modular OSGI Runtime Container (MORC) Framework :-composed of Three main components:
+Bridge Application, MINDI: MORC Integration Director :- User Interface  for the dynamic configuration capability in MORC, Core Framework Bundles :- UHG properietary application build on OSGI bundles that provide base functionality: core, configuration services, unit test framework
+
+5. SUIT tool :- Group of tools required to check connectivity, logging and security of AE backend provider applications.
+ 
+6. AE Logger tool :- Business application to log down AE business services for audit and troubleshooting issue in consumer, AE and provider side.
+ 
+7. UPM Admin App :- Admin application used to administer AE business services for Conusmer and Provider business needs and monitor AE business services health and usage.
+
+8. AeMqVisualizer tool :- Application required to check health status of legacy systems and message queues operations for National Dat Base, Common Data Base, The Online Processing System (TOPS), Cosmos claim engines.
+
+Using various middleware technologies like Message queues (MQ), WMB, Mainframe, Web-service, Nagios, Sitescope, Compuware Vantage Performance and Monitoring Tool, Service Oriented Architecture, Messaging Server, DB2, Open Server Gateway Initiative (OSGI) Framework, CXF Apache SOAP Engine, Webspehere Application Server, Websphere Enterprise Service Bus, Websphere Transformation Extender, CA LISA Itko Virtua;ization tool, HP Quoick Test Proifessional tool .    
+
+
+====================================================================================================================================================================
+Q7 How long has the applicant been involved with this project/technology/application?
+
+Anil Gogia joined UnitedHealth Group India on 20th November 2006 and is with Application Enablement from last 7 years and 8 months. Currently he is working as Senior Technical Architect in Application Enablement Project. Since his joining in United Health Group, he worked with almost all Application Enablement project's sub applications like United Programming Model, Websphere Message Broker, AE Experience team, Quaity Assurance team, Infrastructure and Monitoring team, DataPower XI50/52 team application, LISA tool application team, Foundation Framework and Application Enablement CORE Architect Team.
+
+Application Enablement (AE) is a UHG middleware enterprise service bus for enabling various consumer applications and provider applications for communicating and integrating to each other irrespective of their underlying technologies and platform & acts as life line for communication between dispate applications for fetching claims, providers, eligibility data for the Optum business segments. Application Enablement Enterprise Service Bus is developed for all critical UHG Consumer, Member, Employer and Provider Portal for Optum Digital Intelligence Network (ODIN), Optum,  optum Rx, Ovations, non ovations for various Optum Business Integration which helps to provide better decision support for the complex and large Member Portal, Employer Portal, Enterprise Voice Portal, Buinsess to Business (B2B), Business to Consumer(B2C), Optum Pharmacy, Optum Rx Claim, Optum’s Digital Intelligence Network (ODIN) , OISP business segements.
+
+====================================================================================================================================================================
+Q8 Provide a detailed description of the applicant’s current job duties related to the project/technology/application, noting the percentage of time spent on each duty. Where applicable, state how the applicant gained specialized knowledge through performing this duty, and how his/her knowledge is unique or more advanced than others. 
+
+
+Anil Gogia has joined UnitedHealth Group (UHG) India in November 2006 and Currently he is working as Senior Technical Architect in Application Enablement Project. 
+
+Application Enablement (AE) is one of the critical projects in UnitedHealth Group (UHG) in terms of its visibility and the tasks accomplished. Application Enablement is a Service Oriented Architecture (SOA) based application which exposes its business functionalities through web services and provides reusable business services, frameworks and tools that enable integration between applications across multiple platforms in a consistent manner. 
+ 
+
+Anil Gogia is a Medical graduate with Master's in Computer Engineering with strong technology, analytical and logical skills. He has excellent analytics skills and high quality knowledge in Application Enablement technical and business domain area. While working with Application Enablement (AE) for last 7 years and 8 months, he has gained extensive knowledge on the several sub applications of this application and consumer applications and backend application to which it helps in communication. He has deep knowledge on the design part helping developers and system analyst in creating the design of new enhancements. One of the existing client COSMOS (Comprehensive Online Software for Management & Operation Support) is using SB Gateway as third party middleware to accomplish its business requirements. Anil Gogia has developed out an technical approach with his extensive knowledge of this integrated environment, where IBM to Unisys SB gateway will be replaced by AE services , which will subsequently result in millions $ saving. He is a key leading member of this United Programming Model (UPM) project and is scheduled to give knowledge transition to onshore team members and onshore clients during his visit to USA for offshore clients work and process. Currently, he is the only person in the team (Including onshore and Offshore both) who is having the good understanding of this United Programming Model, Websphere Message Broker, Foundation Framework, decommissioning initiative of IBM to Unisys SB Gateway.
+
+As stated above, Application Enablement is an integrated middleware project which communicates with almost all UnitedHealth Group consumer and provider applications, requires a lot of one’s Specialization to understand the integrated environment. Anil Gogia has an excellent understanding of our Production Environment which basically hosts these applications in subsequent releases. To make the production environment stable has always been a high priority and worry area for this project.  In the course of his (Anil Gogia) tenure with this project, He has developed a tool called AeMqVisualizer, AE-Logger, Modular OSGI Runtime Container (MORC) and MORC Integration Director (MINDI) app, UHG Admin application and Error Reporting which helps in keeping the production environment stable and secure. AeMqVisualizer tool and MORC Integration Director (MINDI) app is completely developed by Anil Gogia and is scheduled to implement in Production environment during his Visit to onshore (USA). Before implementing this tool into Production, It is mandatory to conduct meetings with the different clients mainly at onshore who will be impacted because of this. Anil Gogia will gather information from these different clients, understand their pain areas and will propose solution with the help of his expertise skills and this tool implementation. Post Implementation, He is also scheduled to impart training to the other team members in the Onshore team.
+
+Application Enablement is the Enterprise Service Bus used for integrating all existing and new emerging business segment to provide comparative cost estimation to memebers with other providers in United States, help to understand the claim trends in order to identify the fraud. 
+Modular OSGI Runtime Container (MORC) and MORC Integration Director (MINDI) are two key AE proprietary framework which is used across multiple business segment to configure business services in a reusable manner.
+
+Anil Gogia designed, architected and developed MORC Integration Director (MINDI) framework and which is Application Enablement is using as its key component as well as MORC Integration Director (MINDI) framework is acting as reusable component, which is currently being used as Optum Digital Intelligence Network (ODIN), CHP consumer applications for developing and configuring their business services.
+
+Anil Gogia has gained excellent Domain knowledge while working on this United Programming Model Project. He has showed exceptional performance and currently plays role of subject matter expert for this project. He is the only resource in the team who has vast experience in both business analyst role and technical role. 
+
+Anil Gogia is the only resource in the team who knows all Application Enablement components from United Programming Model, Application Enablement Experience SUIT tool, AE Logger tool and key resource who manages AE Infrastructure which makes sure our system up and running across 24*7*365. He has developed a AE Log Analyzer (production server layer) in Application Enablement for logging and monitoring error logs in all our production servers. And now more than 80 Business consuming applications and provider application's error info are being logged and monitored by this AE Logger tool for real production systems monitoring.
+
+Anil Gogia has developed a MORC Integration Director (MINDI - UPM3 Configuration app) for configuring UPM 3 business services dynamically. This MORC Integration Director (MINDI) app is used to make configuration changes in running services without making Services down in production which is helping our Production services and servers up and running all the time and reduced our application down time drastically. It helps to make our services up and running even with any backend provider application server changes which generally occurred due to the change of endpoint address location and security certificates of provider applications. Earlier in absence of this application we have to scheduled our down time of our Production servers to make this configuration changes which was costing us in terms of money, effort and time to our consumers, this utility removed the need of server restart dependency for any provider configuration changes and UPM service's configuration changes.
+
+Anil Gogia is the only resource available (both onshore and offshore) having work as bridge between business, delivery team, development team and quality/testing team. He understands the business requirements and converting them into technical specifications.
+
+Anil Gogia performs the following tasks as part of his current roles & responsibilities.
+
+1. Requirement Gathering & Analysis (15%) – Working with Business and System Analyst team to understand the requirements and evaluate technical feasibility. Analyze complexity and technical impact of requirements to the existing system and discuss with Business Stakeholders for further refinement of requirement. He also involves:
+To create Project service specification out of Business Requirement walk through.
+Preparing estimates for development based on the understanding of the requirements and assign resources based on the available bandwidth.
+To interact with developers to make them understand the business and technical requirements
+To define infrastrucure deployment guideline and timeframe to make services avaiable in non production and production environment to varios consuming business applications and real users.
+To communicate with business and delivery team to provide regular update on development progress
+To communicate with leadership team to provide regular update on plan and project team status
+By performing this activity for more than 7 years and 8 months for Application Enablement Area, Anil Gogia has become SME on Application Enablement Applications. Also he has gained extensive knowledge on the various applications like United Programming Model(UPM), Websphere Messaging Broker(WMB), Foundation Framework(FF), UPM middleware tool and components Datapower, Sitescope, Agentless Compuvare and framework part of Application, their functionalities and their interlinking relationships. By doing reverse engineering he has gained the expertise to understand the requirement is in line and in case of mismatch, discuss with Business to further refine the requirement.
+
+Anil Gogia has acquired rich experience working with various stakeholders and is able to understand the business needs, urgencies and their further commitments to the end-users apart from understanding the various techno-functional features of the application. 
+
+Specialized knowledge in  US Healthcare – Certified PAHM (Professional, Academy for Healthcare Management)
+                                                                                                                                 
+
+2. Design (25%) – Create High Level and Detailed Level Technical Design. Conduct design reviews and design verification. Create final work estimate.
+Create Design architecture decisions and define technical mapping and guideline for development team.
+By performing complex design utilizing various AE tools/technologies (United Programming Model, Canonical Modeling, DB2, UNIX), Anil Gogia has been able to enhance his knowledge further on the UPM2 and UPM3 frameworks, tools and buildup expertise in utilizing the new features of the tools/technologies.  He has gained complete understanding on Application Enablement Enterprise Service Bus frameworks which makes his able to offer most appropriate solution to Business Stakeholders, Consumer and Provider applications.  Involved in various tool developments which ease out Production triaging process. Work with Onshore architecture group to enhance the homegrown UHG proprietary architecture (Enterprise Service Bus).
+
+3. Development (15%) – Code and unit test of Application Enablement United Programming Model (UPM) Framework 2 and 3. 
+
+By coding various complex business services, Anil Gogia has become expert to develop AE business web services which provides members health, claims and provider information etc. back to user with in defined service level agreement of 8 seconds. He optimized various complex business services in order to reduce the usage of system resource. 
+The ongoing activity of migarting United Programming Model Framework 2 to United Programming Model Framework 3 by creating individual independent deployable services to use each of these as reusable services which helped Anil Gogia to build up his expertise over identifying potential reusable and self sufficient independent business service. His business expertise on Application Enablement's United Programming Model Framework Business Process and Technical expertise on AE Business services knowledge is extensively used to develop muti versioned robust reusable services which help Business to reuse and save money, effort and time.
+
+He became an expert in identifying the complexity of requirements in terms of converting them into coding elements and identifying the risks involved.
+
+Technical Expertise – Certified Core Spring 3.0 Framework, Oracle Certified Associate SQL Fundamental, Mongo DB Certified, Sun Certified Java Programming, Sun Certified Web Component, Sun Cerified Business Component, Fortify Software Associate Level Certification Secure Static Code Analyzer (SCA) toolset, Cerificate of Achievement in Pega PRPC : Implementation Methodologies, Certificate of Achievement in Pega PRPC : BootCamp 6.2, Certificate of Achievement in Pega PRPC : Fast Track 6.2, IBM Accelerate, Secure and Integrate with Websphere Datapower SOA Appliances V3.8 WB560, IBM's BEA Aqualogic Interaction 6.0 Portal Admin for Developers Ed 1 PRV, IBM's BEA AquaLogic Interaction IDK 6.0 : Part 1 - Develop Portlets ED1 PRV, IBM's BEA AquaLogic Interaction IDK 6.0 : Part 2 - Develop Web Services ED1 PRV, IBM Websphere Transformation Extender(WTX), IBM Accelerate, Secure and Integrate with Websphere Datapower SOA Appliances WB555, CA Technologies Certificate of Completion of CA LISA r7.0: Virtualize Fundamentals 200, Mastered Web Services & SOA Truly with Passion from Java Programming with Passion!
+British Council Skill course at the level of Impact Upper Intermediate
+
+Developed MORC Integration Director (MINDI), AeMqVisualizer, AE-Logger and Error Reporting. Ownership of Modular OSGI Runtime Container (MORC), MORC Integration Director (MINDI), SUIT tool from Offshore. 
+
+4. Test Planning (10%) – Define the testing strategy corresponding to each Application Enablement UPM business service's requirement and create UPM business service specific test case as per Business Requirements document. Prepare test data and environment, execute unit testcases and virtualizes business test cases, scenarios on LISA to provide test data in Application Enablement layer for Business User for Service integration, Performance, Regression testing, User Acceptance and defect fixing.
+
+Involved in defect triage activities for all the high priority defects to fix them on time.
+Conducting Root Cause Analysis and Post mortem post release to identify areas of improvement for the team.
+
+The activity has helped Anil Gogia to cultivate the skills for verifying whether data is meeting the business requirements. Anil Gogia is having work exposure over various stages of software development, plays a key role in identifying any gap areas between complex queries and business requirements.
+
+5. Team Management and Communication (10%) –  Task prioritization & Task distribution among Team members. Anil Gogia has gained immense skills on time management and tasks prioritization while working on Team Management. Leverage knowledge to the new joiners. Analyze the estimation time to develop and test in a specified environment using defined methods, tools and techniques. Holding review meetings to monitor progress of the project as per schedule and ensuring timely completion and delivery of the project to the client. Help team members if they face any technical issues while developing the code. Proper follow up with the team in order to make the deliveries within the time to Consumers.
+1.	Communication with client on ongoing basis which includes conference calls and written communications.
+2.	Provide timely updates on tasks to reporting supervisor.
+3.	Coordinate with onshore stakeholders such as SA and BA, regarding project related issues.
+4.	Build a relationship with project technical stakeholders/business partners.    
+
+
+6. AE UPM Server Administration (10%) – Responsible to manage UPM Websphere Application Servers and MORC Integration Director (MINDI) application monitoring, to provision Business users for various Groups/Roles/Folders available, to plan the backup & recovery for central repository, to monitor the load and performance of all UPM production Servers and to migrate the AE business services and reports from development environment to test & production environment. Ownership of stabilizing Production environment after each release. 
+
+Key contributor of triaging production issues occurred in the integrated environments after each release. Ensuring the timely availability of the Integrated Environments by fixing the production issues occurred. Conduct meeting with the different stakeholders to understand the pain areas of the integrated system mainly production one, proposing solution and implementation of the same
+
+By handling these activities, Anil Gogia has become capable to handle the AE Production Issues And now he is the only resource available (both onshore and offshore) having work experience on all of these AE production Server activities. Also Anil Gogia has gained excellent communication skills while interacting with Business, Consumer application teams, Provider Application teams and users on a daily basis to provision them in order to get access on various AE Services and respective Consumer Groups/Roles.
+
+7. Project coordination (15%) – Co-ordinate with various Consumer applications, backend provider Source Systems teams, AE Infrastructure teams, Tools Team, and Business Analysts and Testing teams of Consumer and Backend systems. Provide status reporting, Report an issue to AE Infrastructure team, UHG Ebiz Infrastructure team, United Command Centre (UCC) operation team in case of AE services running in production or non-production environment, data mismatch in Consumer application or Backend Provider applications or UHG Network systems. 
+
+
+
+Anil Gogia has gained end to end knowledge on Application Enablement System Architecture. He is easily able to identify the corresponding service, dataservice, consumer and provider backend source system if there is data issue or component issues in any of Application Enablement applications.
+
+
+====================================================================================================================================================================
+
+Q9 Provide a detailed explanation of why the applicant was chosen for this project/technology/application
+
+
+Anil Gogia joined UnitedHealth Group India on 20th November 2006 and is with Application Enablement from last 7 years and 8 months with strong background of United Programming Model, Websphere Message Broker and MainFrame technologies and setup the United Programming Model, Application Enablement Infrastrucure, Application Quality Assurance, Websphere Message Broker offshore team. He applied his expert technical, logical and creativity skills by developing various tools like Modular OSGI Runtime Container (MORC), MORC Integration Director (MINDI), AE Logger, Error Reporting,SUIT,  AEMQVisualizer etc.during his stay in the Project. We are planning to introduce newer Technologies and Tools like United Programming Model 3, Websphere Message Broker 7 and Upgradation to Foundation Framework 2 along with replacement of older systems. Anil Gogia being Fast learner and Senior team member expecting him to learn these newer software and decommission of S B Gateway, Enterra and will later on share to the team. 
+
+Application Enablement is considered as more consolidated application with more than one sub applications and modules integrated with each other, these sub applications and modules are legacy application that are now represented in the form of tiles & bundles. Each of these sub applications and modules gets data from different sources which needs to be integrated in-turn. To complete Application Enablement United Programming Model application, each of these data sources has to be integrated with respective modules which in-turn needs to be integrated. 
+
+
+This knowledge cannot be easily replicated by anyone from outside this project team. Being a proprietary application, there is little scope for identifying anyone who can directly fit in and be productive. He is a critical resource to satisfy the immediate need for the project and hence chosen for onshore technical architect role for the project through its duration.
+
+Anil Gogia is AHM Certified which help us in testing our current services and newer development design discussion. His good Technolgy, Business understanding with Innovative and Leadership skills made us to choose him for this Project
+
+Anil Gogia has more than 12 years of experience in software development and maintenance under Healthcare, Banking, Financial and Insurance domain using Java/J2EE, BMC Patrol Scription Language, Python, IBM XI50/52 Data Power Appliances, MQ Series, DB2, Oracle, Mongo db, MySql and UNIX technologies. He was hired for Application Enablement Project in 20th November 2006. He was hired through a competitive selection process involving multiple candidates. His proficiency in HealthCare domain, Middleware technologies, Java, J2EE, Database, Hibernate and Enterprise Java Beans and MQ Series technology, design and development, analytical skills and good communication skills were the critical factors for his hiring decision in UHGIS.
+
+Over the last 92 months, Anil Gogia’s involvement has grown from a senior developer to an experienced Sr. Technical Architect, as he is today. His core competency includes the following:
+
+UnitedHealth Group Consumer Data Models
+•	Optum Digital Intelligent Network (ODIN) [Expert]
+•	Employer E Services (EES) [Expert]
+•	Integrated Service Experience Tool (ISET) [Expert]
+•	Business to Business Portal (B2B) [Expert]
+•	Member Portal MY United Health Care (MYUHC) [Proficient]
+•	I Listen,Educate,Assist, Delight (iLEAD) [Proficient]
+•	Business to Consumer (B2C) [Proficient]
+
+
+UnitedHealth Group Provider Data Models
+•	Consumer Database (CDB) [Expert]
+•	Network Database (NDB) [Expert]
+•	The Online Processing System (TOPS) [Expert]
+•	Consolidated Eligibility Systems (CES) [Expert]
+
+Programming Languages & Tools
+•	Java, J2EE, Servlets, JDBC, JSP, EJB 2.0 JSP, JMS, WSAD 5.0, XML, Documentum
+•	Web Services, SOAP, RESTful Architecture
+•	Big Data Technologies (MongoDB, Hadoop, MapReduce), 
+•	IBM Datapower Appliance Xi50, 
+•	Websphere Message Broker 7.0 (WMB), Websphere Service Registry and Repository (WSRR), ESB (Enterprise Service Bus), IBM Websphere Application Server 6.1 / 7, BEA Weblogic 8.1 Portal Server, Spring 3, 
+•	Hibernate, JPA, Apache CXF Framework ,
+•	Ant, Maven, Checkstyle, Eclipse, Struts, C, C++, Tomcat
+
+Database Technologies
+•	Oracle 10g [Expert]
+•	MongoDB [Expert]
+•	IBM DB2 [Expert]
+•	Microsoft SQL Server 2005 [Proficient]
+•	Microsoft Access [Proficient]
+•	Hadoop [Proficient]
+
+Anil Gogia is having an extensive working knowledge on Application Enablement applications (United Programming Model Framework 2 and 3, Websphere Message Broker Framework and Foundation Framework). Application Enablement United Programming Model is very big and complex framework of UHG proprietary Middleware Service Oriented technology which is built on various technologies and framework like Java, MQ Series and Mainframe and Domain integrated patterns of UHG consumer and provider applications. During his tenure, he has acquired the expertise knowledge across different subject areas of Consumer Applications like EES, MY United Health Care (MYUHC), Consumer Account Management System (CAMS), Optum Digital Intelligence Network (ODIN), Integrated Service Experience Tool (ISET), I Listen, Educate, Assist, Delight (ILEAD), OISP, PAS, GHP, RXHD, B2B, B2C, EVP, ICARE, MYHCE etc and become United Programming Model Expert on Application Enablement applications and their more than 60 Business Consuming applications and 50 Provider applications like The Online Processing System (TOPS), Network Data Base (NDB), Common Data Base (CDB), Consumer Account Management Systems (CAMS), Optum RX, RXCCR, RXClaim etc.
+
+Anil Gogia is leading United Programming Modelling Framework Migration 2 from Java/J2EE to United Programming Modelling Framework Migration 3 version based on OSGI Framework customized for Application Enablement Project Needs to expose each business services independently deployed with multiple versions coexistent in production server. Then he designed more than 45 new business services in various domain subject areas. And he developed more than 300 business based on the business stakeholder’s requirement. 
+
+Based on his detailed knowledge of domain, technical & analytical aspects of Application Enablement, later he has been recommended and hence works as a Senior Technical Architect and performing role of AE Dev Lead Manager for Application Enablement. Due to his excellent understanding of Application Enablement domain, process and AE business service processing/expertise at United Programming Model level and ability to convert Business Requirements to Technical Requirements, Gudielines and Implementation Anil Gogia is a valuable resource. He also gone through various technical and domain training and programs and became a certified AHM SME to further enhance his Business Knowledge. Currently He is the only Aapplication Enablement Dev and SME resource in offshore team & onshore team who manages and knows Business and Technicology involved in UPM, WMB and Business and QA, Testing.
+
+Anil Gogia has end to end architectural and business domain knowledge on AE United Programming Model, AE MORC Integration Director (MINDI) application, AE Log Analyzer & AE InfraStructure applications. That’s why he has been chosen as a subject matter expert for United Programming Model Migration 2 to 3 and MORC Integration Director (MINDI) application designer, architecture for Healthcare reforms like Provider Expansion, ICD 10 Migration implementation in Application Enablement. He would use/share his expert knowledge of existing framework, business data technologies frameworks, processes and standards used in application, which would be highly helpful in architecting/defining/designing new functionalities for Application Enablement and integrating them to existing framework without attracting any risk to existing functionalities.
+
+Anil Gogia is the only resource (both Offshore and Onshore) who is having expertise to handle and manage UPM 3 Server Activities and MORC Integration Director (MINDI) application. He has been also chosen for United Programming Model Services Migration from UPM 2 Framework to UPM 3 Framework.
+
+Anil Gogia has also received several trainings such as Computer Associates Lisa Service Virtualization tool training, Forte Code Scan, Healthcare domain subject area, WAS, Pega BPM Overview and achieved certification on provider AHM and Oracle Database, Mongo DB, Java, J2EE, Spring Framework.
+
+Anil Gogia is involved in the following stages of the project assignments’ lifecycle:
+   1.  Order of Magnitude Estimate creation for the development projects, as Technical Expert.
+   2.  Business Requirements Analysis, as System Analyst.
+   3.	 Detail Technical Design creation and approvals.
+   4.	 Development and Unit Testing.
+   5.	 Coordination with the Quality Analyst Team, during System Testing.
+   6.	 Coordination with Business Analyst Team at onshore, during User Acceptance Testing and Business Sign-off.
+   7.	 Coordination with the Release Management Team, during Production Deployment.
+
+====================================================================================================================================================================
+
+Q10 Provide a detailed explanation as to what type of financial impact (cost savings, time, customer retention, etc.) the applicant has made on the Company.  
+
+
+Anil Gogia has been working on various modules of Application Enablement applications from last 92 months. He has acquired special domain knowledge while working on these assets, which cannot be achieved without considerable work experience involving complex business requirement, design and service verifications. He is strong Technicaly as well as SME for not only these applications but also for Consuming application and Provider area as well as US healthcare business.
+
+
+Business is looking for a way to replace customized IBM to Unisys SB gateway and Enterra application with AE services and Migration of United Programming Model Framework 2 to United Programming Model Framework 3, which is already proposed and Piloted successfully, subsequently Business would be happy to save expenses on these external products. Transferring this kind of knowledge in a short span of time to an equally efficient person would be a time consuming and significantly economic inconvenience to the organization, since people with skills comparable to Anil Gogia would require much time understanding the overall architecture and design and might be difficult to find out in the US and Indian market place. Also the loss of business & its customers would be added discomfort to UHG during the upcoming Production releases of this project.
+ 
+The kind of knowledge Anil Gogia has acquired in Application Enablement applications is not simply by reading manuals or trainings. He has gained a significant knowledge on United Programming Model and US HealthCare by working hard on the system and digging in depth when we faced issues in the past and it took 7 + years for him to reach the level where he is now. 
+
+It would require 10-12 months for a person to be able to provide basic support for Application Enablement application, around 1.5 Year to be able to work independently on small to medium complexity issues. But it would require more than 2 years for an employee to work on advanced topics with high level of complexity
+As this knowledge transfer would require significant time duration and another individual would needs to work at least 3 years on these Application Enablement  applications (UPM & WMB) to gain end to end functional knowledge of these applications, it cannot be accomplished without a considerable financial impact to the organization.
+
+
+And hence he has functional and technical knowledge expertise, which cannot be easily transferred to other employees. Anil Gogia has a combination of both 'Functional Expertise'  and ‘Technical Expertise’
+
+
+
+====================================================================================================================================================================
+Q11 Are there other members on this team who have been or who will be transferred to the U.S. to work on this project?  If yes, explain in detail why multiple people are required to be onsite for this project. Describe in detail how the applicant’s specialized knowledge is different from those who have been transferred to the U.S. 
+
+No, We don’t have any other team member who has been transferred to the U.S. to work on Application Enablement United Programming Model Project.
+And also no other team member (Apart from Anil Gogia) will be transferred to the U.S. to work on this Project for assignments (Migration of United Programming Model 2 Framework to United Programming Model 3 Framework and MORC Integration Director (MINDI - UPM3 Config) app production implementation and integration to other Consumer applications).
+
+Following training we expect him to share to onshore team members and discuss with business for their need and priorirt for implementing these in project.
+. AE United Programming Business services domain knowledge
+. Sharing of implementation experience of Websphere 7 and AE Experience
+. Modular OSGI Runtime Container (MORC) and MORC Integration Director (MINDI) application Framework with client's requirements
+. Migration of IBM to Unisys SB gateway and Enterra application with AE services and UPM 2 to UPM3 Framework Business Services
+
+
+====================================================================================================================================================================
+
+Q12 Applicant’s experience in comparison of others within the project/technology/application team – 
+
+Comparing Anil Gogia to other people working on Application Enablement:
+
+A team of Twenty two associates are working on Application Enablement application. Out of that four are in the lead position each one handling various roles. All these four leads and teams working under the guidance of him. Anil Gogia is the most experienced technically in the Application Enablement UPM & Infra, MORC Integration Director (MINDI) UPM3 Config applications team. Anil Gogia is working as a Senior Technical Architect due to his expertise in US Healthcare and exposure over both Technical Specialist and Business Domain Knowledge of Application Enablement Applications. Anil Gogia has got 12+ years of experience and the rest of the four associates’ average experience up to 8 years. 
+
+====================================================================================================================================================================
+
+
+
+====================================================================================================================================================================
+
+
+Anil Gogia has worked for this application since last 7 years and 8 months. He has complete awareness about the risk/challenges involved with these applications along with the background of technical design decision. He has acquired specialized knowledge of these applications and developed multiple Application Enablement processes/standards. He also gained strong knowledge of the business segments that use Application Enablement applications by multiple proofs of concept and implementation of these segments onto Application Enablement platform. Moreover Anil Gogia has gained specialized knowledge of various Application Enablement Business Data models and programming modeling techniques which is difficult to gain without extensive hands-on experience.
+
+Anil Gogia has also got extensive healthcare trainings and possess technical expertise on middleware tool/technologies as Business Serviuce, Business Process Managed Objects, Oracle, DB2, Mongo DB, LISA, Unix, Spring Framework, DataPower XI50/52 and SVN, PVCS. 
+
+While working in Application Enablement Platform Anil Gogia has designed, developed many complex business services models like Total Cost Estmation services , Claims Highway Frad Detection Services, Claims, Providers, Optum Digital Intelligence Network (ODIN), PAS upgardes, Benefit Service, ICare Management, Claims Reconciliation, Alliance Service, Enterprise Single Sign on Services, Member Poral services, Consumer Account, Consumer Coverage Services, VAS, Oxford healthcare services, Optum Rx Pharmacy, Optum Rx Benefits services, Optum Digital Intelligence Network (ODIN), Business to Business (B2B), Business to Consumer (B2C), Enterprise Voice Portal (EVP) and etc.
+
+Anil Gogia is the only UHGI offshore resource having expert knowledge on Application Enablement Applications (UPM, MORC Integration Director (MINDI), UPM Admin & AE Logger SUIT tool, WMB). In absence of Anil Gogia, we will have to hire a US Healthcare domain expert and Middleware resource and then he/she would take at least 30 months to gain similar knowledge on these Application Enablement applications as that of Anil Gogia.
+
+Anil Gogia is working on following 2 Key applications which are very crucial for Application Enablement healthcare business –
+
+UPM2 to UPM3 Migration is a key migration activity for Application Enablement projects.Currently we have more than 500 services in UPM2 framework, which needs to be migrated to UPM3 framework in align with Business process and guidelines.Around 60 consuming applications consumes these 500+ business services and each conusind application have furher 400- 1000 users which ueses these functionalities as part of Portal either Member Portal, Provider Portla, Employer Portal. Number of transactions hittimg AE UPM is more than 700-800 million per day. Migration of these AE UPM business services in timeframe is most important for United. Any delay in migration will result of more money, effort to United in areas of Claim, Member enrollment and eligibility, Provider, Member care management, Pre Authorization, Pharmacy, etc.
+
+MORC Integration Director (MINDI - UPM3 Config) app is the Dynamic Configuration app used to configure AE UPM3 Business service without need to restart of Application Servers which helps in providing UPM serviuces to Consumer 24*7*365 through out year and will save United loss of Business because of no/less down time of United Consumer applications to fetch Business data from Application Enablement platforms.
+
+
+
+
+====================================================================================================================================================================
+Q13 Using the chart below, compare the applicant’s experience to 1) others within the project/technology/application team and 2) other team members in the same job category (e.g. other Associate Leads). How much experience do others have? What type of training do others have? Please be specific. USCIS is requesting that we compare the applicant’s experience and training to others at his/her level.
+
+Comparison :-
+Anil Gogia is currently working as Senior Technical Architect in UnitedHealth Group (India). His profile is more towards architectural design, resolution of production issues and development of tools which helps in optimizing the production environment. Initially he was working with the development team in Application Enablement at offshore. Later on, new assignment i.e. support for the production environment was given to Application Enablement offshore. Any production support team requires people who are capable enough to handle the code/design specific issues and should have good understanding of production environment. Application Enablement also required a group of such people. So, the team started with Mr. Anil Gogia including into it. He possesses good technical, business knowledge, logical aptitude and expertise to assume the duties of resolution of production issues and stabilizing the environment. Because of his innovative approach he always tried to automate the process, and makes this easier for others. On the same line Anil Gogia developed tool like Modular OSGI Runtime Container (MORC), MORC Integration Director (MINDI), AeMqVisualizer, AE-logger, Error Reporting etc. which helps in triaging the production issues at brisk pace, which was later recognized as a remarkable achievement for the project. This tool is much appreciated by different stakeholders of the continued projects. He has been honored with Awards for his excellent performance in the team.
+
+Anil Gogia has good knowledge and understanding with United Programming Model Framework 3 and Web sphere Message Broker 7. Anil Gogia is the only Team member who knows UPM, MQ WMB, Java, Main Frame technologies which distinguish him from rest of the team member.
+
+Though working at offshore he has the knowledge of the integrated environments of this complex application to a great extent. If we talk about the UHG internal processes, various applications and other tools used in UHG, knowledge of the AE application, Anil Gogia is the only resource in this team of around 22 people at offshore, who has excellent understanding in every aspect. His role is also critical because he has worked with the functional and technical side of this application 
+To compare Anil Gogia with other AE team members, I’d say that he has the maximum experience and technology, business knowledge to expedite any kind of requirement whether it’s big or small, since it requires knowledge of the entire module of this complex application and Anil Gogia is the only one who has worked in almost all the areas of this application. 
+
+Anil Gogia has a Master's degree in computer science. Along with this, he has completed various technical and domain specific certifications/trainings. I feel that nobody in the team has this much number of feathers in his/her cap.
+Comparison chart of Anil Gogia with other people with same or higher designation in the project:
+
+Area	     :Vivek Mishra		Tripti Shukla		Megha Rani	Sumit Wahi	Bala Bairpaka
+Experience:  Total - 6.5			Total - 5.5		Total - 5.5	Total - 2	Total - 2 
+(In Years)  :  AE - 4.5 			AE - 2.5		AE - 2.5	AE - 2 		AE – 1 month
+Education  :Bachelor in 		             Bachelor in 		Bachelor in       Masters in	Masters in  
+	     :Computer			Information		Computer	Computer	Computer
+	     :Engineering	 		Technology	 	Engineering	Application         Application
+Functional :P-AHM 250, 		RSA LEVEL1, 	             RSA LEVEL1,    RSA LEVEL1, 
+Certifica-   :RSA LEVEL1,                       RSA LEVEL 2	             RSA LEVEL 2	RSA LEVEL 2	
+tion	    :RSA LEVEL 2	
+Awards	    :Stellar United Award,				
+	    :SPOT AWARDS				 
+
+Abbreviation:
+
+AE: Application Enablement.
+P-AHM: Professional – Academy of Healthcare Management.
+RSA: Requirement Solution Analysis.
+
+
+
+====================================================================================================================================================================
+
+Q14 Are there others on the team or within the organization that perform the same type of work as the applicant? If yes, how many are employed in the same position? How does this applicant stand out? 
+
+
+No, This is only team UnitedHealth Group India which is working on these UHG Enterprise Service Bus middleware technologies and Framework, integrating various Consumer application with various Backend Data Provider applications ranging from Legacy application like AS400, IBM MainFrame, to newer application technologies application i.e.Web based backend systems Java, Dot Net, Peoplesoft, Siebel, IBM WESB. 
+
+There are 22 resources (a team comprising of 1 Senior Technical Architect, 4 Project Leads, 4 Associate Leads, 6 senior software engineers, 7 software engineers) in Application Enablement team and Anil Gogia is the only resource out of 11 are having the UPM , Infrastructure and Developer roles, he understands the business requirements and provides technical direction to other Application Enablement developers working in the team. These developers have very limited prior experience of Application Enablement applications (UPM2, UPM3, Infra & MORC Integration Director (MINDI) app) and all AE Business segments which is required to scale up AE Business functionalities. That is the reason why Anil Gogia is chosen to lead for enhances the AE Business services Functionality by UPM2 to UPM3 Migration, implementation, integration with existing Consuming applications & creating new reusable AE components for AE Enterprise Service Bus in UPM3 Framework and U3C Server environments.
+
+Hence Anil Gogia is the only resource in UnitedHealth Group India to perform this role
+
+
+
+====================================================================================================================================================================
+
+Q15 How many people are currently working on the same project/technology/application? 
+
+Application Enablementoffshore team has presence of 22 from offshore out of that 10 resources work on United Programming Model UPM.    
+
+
+
+====================================================================================================================================================================
+Q16 What is it about this applicant’s experience that is so unique? Focus on skills that cannot be found in others. 
+
+Anil Gogia is a Medical graduate with Master's in Computer Engineering. He has excellent problem solving skills, very good healthcare domain knowledge and good academic records due to which he was immediately placed in one of the complex applications supported within UHG. i.e. Application Enablement(AE). The various certifications done by him are the proof of his abilities. 
+
+Anil Gogia has been working with Application Enablement offshore IT team since November 2006 & with UHG for over 7 years and 8 months now and shown excellent understanding power to learn and adopt more quickly than others. His self learning approach made him understanding the complex integrated production environment specific things on his own. During his good developing career with Application Enablement AE, he has coordinated with development team for more than 50 development releases and supported application flawlessly. He is the only one to develop utility tool like Modular OSGI Runtime Container (MORC), MORC Integration Director (MINDI), AELogger, AeMqVisualizer that helps in reduction of development and testing time of AE services remarkably. Anil Gogia has completed its MORC Integration Director (MINDI), AeMqVisualizer tool development and now it is scheduled to implement in Production environment. Post Implementation, He has to work with other business clients to make the environment stable. 
+
+Anil Gogia is the only resource in whole team(India and US), who is strong in UPM, WMB, MQ and Mainframe technologies and UHG proprietary Foundation Framework and AE Enterprise Service Bus Design Pattern. Using these UHG Proprietary frameworks and Design Pattern in Application Enablement (AE) helped saving a lot of days to the business which in case of absence of such utilities would have consumed enormous manual efforts. Being a senior resource in the team, he has worked on every aspect of the application and is always recognized by the team members and other business folks for his sound knowledge of this healthcare domain. He was among the first ones in the company to achieve AHM healthcare domain certification. So the experience that he is having in the entire application makes him a unique candidate to work with the onshore team, to deal with the business people and offshore as well. So based upon his outstanding skills, good experience and promising nature he is the best candidate for the onsite coordinator.
+
+Anil Gogia is Senior Technical Architect and SPOC (Single Point of Contact) and is the most experienced team members in technical and domain aspects and has also got profound knowledge on the process being followed by UnitedHealth Group in handling its projects and as a part of Quality Initiative, He is trained on several appliances that are used within UnitedHealth Group like IBM Datapower both by external vendors and also aligned to the way this is leveraged within the organization. Apart from these, he introduced the concept of Peer Review Process which in turn reduced the cost and effort for Quality processes of the project. These designs and suggestions are considered as value-addition to the project and made him stood as unique from rest of the team. Also with his strong and effective communication and written skills he got the ability to handle Requirements and Development gaps.
+
+All through his journey, he has been involved and specialized in some key areas like:
+
+1.	Retrieve the data needed for the Application Enablement from different domains such as Member Portal - MY United Health Care (MYUHC), Optum, Integrated Service Experience Tool (ISET), Provider Portal etc. which interacts with the Common DataBase, Network DataBase application as external sources.
+2.	Design and formulate the process of retrieving data for different sub applications of the Application Enablement and assist different tiles & bundles which interact with each other. 
+3.	Enhance the implementation process for other modules and complete the Application Enablement application development by Integrating different modules and aggregate business services for application development and reporting purposes using the ‘Integration Framework’ specialized by him. 
+4.	Implement the Peer Review process suggested by him for all the modules and applications developed and ensure the Quality assurance. 
+5.	Understand various Source Systems of the application, and work on data flow preparation needed for application development and co-ordinate with onshore business team on a regular basis for impact analysis and enhance the application as demanded.
+6.	Provide high level technical details to testing team and ensure their understanding of the system.
+7.	Specialized in the solutioning frameworks – Requirements & Solutions Analysis which is a legacy process followed in solutioning applications.
+8.	Has contributed to the internal design patterns library and has been using the organization wide standard patterns within the Optum Digital Intelligence Network (ODIN) application. Along with this, he also mentors the teams in adhering to these guidelines. 
+9.	Assist the execution of developed application by users in UAT (User Acceptance Test) region. 
+10.	Enhancement, maintenance & Support of deployed components/application in production environment.
+11.	Collaborate with UnitedHealth Group Continuous Improvement Team in providing performance improvement solutions 
+
+Anil Gogia’ s experience in Application Enablement United Programming Model application, MORC Integration Director (MINDI) Config app, AE Logger tool and AE Business domain knowledge is unique at UHGI mainly because he is the only developer who has worked for AE UPM, AE Logger and MORC Integration Director (MINDI) Config applications since its kick-off till date and he is well experienced to all AE sub components and sub applications Application Enablement Project. Even he is the only Subject Matter Expert of UPM Area. And by using his skills, he has designed more than 300 AE Business services for more than 40 Consumer Applications in UPM and his designed architected MORC Integration Director (MINDI) config app is now used in Optum Digital Intelligence Network (ODIN), CHP, Tricare and Commercial consuming applications for dynamic service configuartions.
+
+
+Anil Gogia has been selected as one of the specialized knowledge resource due to his extensive experience on the Application Enablement Business Domain, US Health Care Process and specifically Application Enablement Healthcare's business. Anil Gogia is having Extensive knowledge of Application Enablement applications (UPM, Infra & MORC Integration Director (MINDI - UPM3 Config), WMB). The unique skills gained by Anil Gogia are:
+• Overall knowledge of existing Application Enablement United Programming Model framework 2 and 3, AE Infrastrucure, MORC Integration Director (MINDI) Config app, AE Logger tool. UPM Admin application.
+• Functionalities & limitations of United Programming Model Framework and MORC Integration Director (MINDI - UPM3 Config) app
+• Only resource in the UHGIS Application Enablement team who has certified PAHM SME
+• Only resource who is responsible to create Technical specifications, guidelines for all new and existing UPM Business services and MORC Integration Director (MINDI) config app
+• Expert knowledge on AE Server administration.
+• Expert knowledge on US Healthcare regulatory standards and developing various complex buisness process model services to meet the regulatory requirements.
+
+Anil Gogia currently holds role of Technology and Subject Matter Expert for the Application Enablement United Programming Model application. He has extensive knowledge on US Healthcare domain area. He has strong knowledge in the field of Service Oriented Architecture, AE Business services processes, LISA Virtual tool, Datapower XI50/52 tool, AquaLogic User Interface, Pega BPM, Java,J2EE, UNIX, Oracle, Mongo DB, MQ Series and other Middleware tools/technologies used for Application Enablement Applications. This coupled with his experience in performing roles:  business analyst, AE Infrastructure Server administrator and technical specialist make him an individual with distinguished abilities and qualities. Anil Gogia is having expert on Application Performance tuning and IBM Websphere Datapower, Websphere Server Administration.
+
+To be specific, the specialized knowledge of the proprietary application Application Enabalement United Programming Model, MORC Integration Director (MINDI), various Application Enablement sub componnets WMB, Foundation Framework and AE Business Services Administration make Anil Gogia unique among other developers.
+
+
+
+
+
+====================================================================================================================================================================
+Q17 How is this applicant’s experience valuable to the Company’s competitiveness in the marketplace? What benefit does the specific project/technology/application provide the Company? 
+
+
+
+Application Enablement (AE) is one of the crucial projects for UHG. Application Enablement United Programming Model 3 migration has to be completed and shall be deployed in coming quarters. This application is considered as more consolidated application with more than one module integrated with each other. Completion of the project with in the specified time line always provides the company a secured place in competitiveness market and can yield a good results in terms of revenue as well.
+
+Anil Gogia has very extensive knowledge on US Healthcare domain specially the different growing healthcare laws adopted by various states in US, along with technology expertise and functional side of the applications, which makes him unique and very rare skill set collection in the market. He has the ability to provide the technical solutions in effective and best possible manner. Being strong in functional and business knowledge, we are looking for Anil Gogia expertise to move IBM to Unisys with AE Services and upgrade it to United Programming Model 3.
+He also has the good number of domain certifications completed among the other team members which is very impressive factor about him. Being a healthcare certified (P-AHM), he has used his healthcare knowledge within Application Enablement as well as across different application forums
+
+He uses his skills not only to support the application but to optimize the application by developing Utility tool like Modular OSGI Runtime Container (MORC), MORC Integration Director (MINDI), Error Reporting, SUIT, AeMqVisualizer and AE-Logger. 
+AeMqVisualizer Pilot implementation on production environment showed outstanding results in terms of issue resolution time.
+
+And, Anil Gogia, as explained above of his skillset, and the trainings received on internal systems, provided valuable contributions to the application which are high appreciated.
+
+
+
+====================================================================================================================================================================Q18 Does this applicant have knowledge that cannot be easily transferred to another individual without significant economic inconvenience to the Company? If yes, please explain.  
+
+
+
+Anil Gogia is the brain behind the designs and integration frameworks laid out that are highly complex as they require integration amongst several system like MY United Health Care (MYUHC), Integrated Service Experience Tool (ISET), I Listen,Educate,Assist, Delight(ILEAD), Optum Digital Intelligence Network (ODIN), OISP, Employer E Services (EES) and other various data sources, Consumer Database (CDB) and Network Database (NDB), COSMOS, Consumer Account Management System (CAMS) , VAS, Optum Rx Pharmacy Claim (RXCLAIM) which are complex and need special analytical and technical ability for someone to understand, and integrate to form a framework which is highly extensible and scalable across various modules.
+
+Anil Gogia has spent 7.8 successful years serving project with his innovative ideas and implementations of the same. It would take any good candidate at least 10-12 months to be able to provide support for this kind of complex application. In order to start working independently on the assigned tasks, it would take more than 1.5 year for that person; and that too on issues with small to medium complexity. But it takes more than 2 year to train an employee to an advanced knowledge level and productivity.
+ 
+Here the case of Anil Gogia was different to a great extent. He is the only resource who knows United Programming Model (UPM), Websphere Message Broker WMB, Messaging Queue MQ and Mainframe technologies. He has worked in healthcare projects over more than 7.8 years and Lead the UPM, WMB offshore team. So his overall  experience with this industry and understanding of the similar application architecture makes him special to perform complex tasks in this project. 
+Business is interested in using his abilities and technical skills within the ongoing production releases by implementing his self developed Utility tools like AELogger, Modular OSGI Runtime Container (MORC), MORC Integration Director (MINDI), AeMqVisualizer which would help in planning and smooth execution of this task for the current scenario of the application. Business is also looking for a way to replace customized IBM to Unisys gateway and replace SB Gateway and Enterra application with AE services, which is already proposed and Piloted successfully, subsequently Business would be happy to save expenses on these external products. 
+Transferring this kind of knowledge in a short span of time to an equally efficient person would be a time consuming and significantly economic inconvenience to the organization, since people with skills comparable to Anil Gogia would require much time understanding the overall architecture and design and might be difficult to find out in the US and Indian market place. Also the loss of business & its customers would be added discomfort to UHG during the upcoming Production releases of this project.
+ 
+And hence he has functional and technical knowledge expertise, which cannot be easily transferred to other employees. Anil Gogia has a combination of both 'Functional Expertise'  and ‘Technical Expertise’ as below:
+
+•	Has proficiency to work on multiple IT technologies, ranging from Messaging based application development, big data technologies (worked on MongoDB, Hadoop) to diverse Databases (Microsoft SQL Server 2005, Microsoft Access, Oracle 10g/9i, IBM DB2)
+•	Has worked on diverse data sources in UnitedHealth Group; some of the key names being Consumer Database (CDB) and Network Database (NDB).
+
+In addition to the process knowledge of UHG proprietary applications, Anil Gogia is the a critical asset to the project.  He will be using this knowledge acquired in UHG India extensively in his upcoming assignments in UHG US. Having made key contributions to this project demonstrates that Anil Gogia has advanced knowledge that is uncommon, noteworthy, or distinguished as compared to the knowledge of others, both inside and outside of the company. As a result, it is necessary to integrate the beneficiary’s specialized knowledge into the UHG U.S operations in order to move the project forward. For this reason, it will be difficult to impart various aspects of his knowledge and experience to another individual without significant economic inconvenience.
+
+
+====================================================================================================================================================================
+
+Q19 What type of training did this applicant receive? How many others have had this training and how is this training different from training other employees have received? Also indicate to whom these trainings are available (e.g. a small percentage of people or everyone?). 
+
+Training Details :-
+
+Fraud, Waste and Abuse Annual Training 2014 
+Safe and Secure With Me Privacy and Security Annual Training 
+Code of Conduct Annual Attestation 
+CE@Work Lesson - Fraud, Waste and Abuse Annual Training 
+Safe with Me Refresher - Privacy & Security Annual Training 
+Code of Conduct and Policy Attestation 
+CE@Work Lesson - Delegation of Binding Authority 
+Safe with Me - Privacy and Security Training 
+CE@Work Lesson - Fraud, Waste, and Abuse 
+CE@Work Lesson - Global Anti-Bribery 
+UnitedHealth Group Code of Conduct Attestation 
+Privacy and Security: You Hold the Key 
+UHG Privacy & Security Employee Awareness Training 
+CE@Work Lesson - Whistle Blowers 
+EI@Work Lesson - Information Security 
+EI@Work Lesson - Handling Sensitive Data and Electronic Media 
+E&I@Work Lesson - Ethics & Integrity Program Overview 
+EI@Work Lesson 8 - Conflicts of Interest 
+EI@Work Lesson 4 - Records Management Awareness 
+CE@Work Lesson - Protecting Company Intellectual Property 
+GGN - UML / Design Patterns - 2 (Command, Builder, Facade, Observer)
+Behavioral Interviewing Skills
+MAP - Performance Discussion & Goal Setting
+The Health Care Series with Esther Nash
+IT Functional Competency Overview for Managers 
+IT Functional Competency Overview for Employees 
+MAP Evaluating Performance - UHG India 
+Requirements & Solution Analysis Level 2 (LEGACY) 
+Requirements & Solution Analysis Level 1 
+Behavioral Interviewing Skills - UHG India 
+COM Release 1.0 IT Time accounting Program - Learn 
+United HealthGroup World AIDS Day Awareness Quiz 
+Dynamic Virtual Team Meetings 
+Transition Training 
+BP - UHG IT TRS Manager Approval Training 
+BP - UHG IT TRS Training 
+Are You An Expert - May'08 Quiz 
+Are You An Expert - Apr'08 Quiz 
+IT - Quality Training, Part 1 - Introduction to Continuous Improvement at UHG IT 
+IT - Quality Training, Part 2 - Introduction to Six Sigma 
+Business-Driven Development at UnitedHealth Group 
+MAP Online Tool for Employees 
+Education@Work Survey 
+Employee Self Service - Non US - Prior Version 
+EI@Work Lesson 7 - Information Security 
+CE@Work Lesson - Privacy Overview 
+E&I@Work Lesson 1 - Ethics & Integrity Program Overview 
+
+
+
+
+US: PRPC: Virtual Training Requirements 
+US: PRPC: Implementation Methodologies 
+SpringSource Certified Professional 
+Spring Core Prep Training Class 
+EAF4J 201A: EAF4J Common Services 
+EAF4J 202: EAF4J Persistence Technologies 
+Lesson 1: Spring Overview 
+SOI Webinar - External 
+IBM Data stage Training 
+DP 201: Advanced Design Patterns 
+DP 101: Introduction to Design Patterns 
+DP 102: Design Patterns and RSA 
+EAF4J 206: EAF4J Security 
+EAF4J 103: Guide to Application Development with EAF4J 
+EAF4J 102: Implementation Highlights 
+EAF4J 101: EAF4J Architectural Overview and Features & Components 
+AquaLogic by Oracle 
+UPM - UHG India 
+
+
+It would require 10-12 months for a person to be able to provide basic support for Application Enablement application, around 1.5 Year to be able to work independently on small to medium complexity issues. But it would require more than 2 years for an employee to work on advanced topics with high level of complexity
+====================================================================================================================================================================
+
+Q20 Has UHG or the applicant published any information about the project/technology/application? If so, please provide details. 
+
+
+Yes. Mr. Anil Gogia has contributed publishing various project, tool, QMS process specific documents, internally to help the team members to get the knowledge and expertise quickly and efficiently. The documents prepared by him contain the details of the Production environment specific tasks performed by him in such a way that anyone who is a new joined can be benefited and get the thorough understanding of the AE application production environment architecture. The documents prepared are scenario-wise which include the details of each and every commonly occurring scenario and mentions the 
+steps to handle the same. The documents prepared by him include:
+•Modular OSGI Runtime Container (MORC) application.
+•UPM2 Framework to UPM3 Framework Migration Document 
+•Deployment Document - Containing the detail architecture of AE (Application enablement) production environment.
+•AeMqVisualizer tool Document - Containing the detail architecture and functionality of Tool.
+•Usage guide for Utility tool SUIT, AE-Logger - 
+====================================================================================================================================================================
+Q21 Provide a detailed organizational chart for the applicant’s team/group showing the management structure that includes names and job titles. Please do not use abbreviations. Also, be sure that the names, job titles, etc. match the chart above.
+
+
+
+
+====================================================================================================================================================================
+
+
+Health Care Reform Law of 2010 (Patient Protection and Affordable Care Act) 
+
+The Federal Health Insurance Portability and Accountability act of 1996 (HIPAA)
+
+
+Application Enablement (AE) is a UHG middleware enterprise service bus for enabling various consumer applications and provider applications for communicating and integrating to each other irrespective of their underlying technologies and platform & acts as life line for communication between dispate applications for fetching claims, providers, eligibility data for the Optum business segments. Application Enablement Enterprise Service Bus is developed for all critical UHG Consumer, Member, Employer and Provider Portal for Optum Digital Intelligence Network (ODIN), Optum,  optum Rx, Ovations, non ovations for various Optum Business Integration which helps to provide better decision support for the complex and large Member Portal, Employer Portal, Enterprise Voice Portal, Buinsess to Business (B2B), Business to Consumer(B2C), Optum Pharmacy, Optum Rx Claim, Optum’s Digital Intelligence Network (ODIN) , OISP business segements.
+
+
+====================================================================================================================================================================
+
+Anil Gogia joined UnitedHealth Group India on 20th November 2006 and is with Application Enablement from last 7 years and 8 months. Currently he is working as Senior Technical Architect in Application Enablement Project. Since his joining in United Health Group, he worked with almost all Application Enablement project's sub applications like United Programming Model, Websphere Message Broker, AE Experience team, Quaity Assurance team, Infrastructure and Monitoring team, DataPower XI50/52 team application, LISA tool application team, Foundation Framework and Application Enablement CORE Architect Team.
+
+Anil Gogia has gained excellent Domain knowledge while working on this United Programming Model Project. He has showed exceptional performance and currently plays role of subject matter expert for this project. 
+
+Developed MORC Integration Director (MINDI), AeMqVisualizer, AE-Logger and Error Reporting. Ownership of Modular OSGI Runtime Container (MORC), MORC Integration Director (MINDI), SUIT tool from Offshore.
+
+Over the last 92 months, Anil Gogia’s involvement has grown from a senior developer to an experienced Sr. Technical Architect, as he is today. His core competency includes the following:
+
+UnitedHealth Group Consumer Data Models
+•	Optum Digital Intelligent Network (ODIN) [Expert]
+•	Employer E Services (EES) [Expert]
+•	Integrated Service Experience Tool (ISET) [Expert]
+•	Business to Business Portal (B2B) [Expert]
+•	Member Portal MY United Health Care (MYUHC) [Proficient]
+•	I Listen,Educate,Assist, Delight (iLEAD) [Proficient]
+•	Business to Consumer (B2C) [Proficient]
+
+
+UnitedHealth Group Provider Data Models
+•	Consumer Database (CDB) [Expert]
+•	Network Database (NDB) [Expert]
+•	The Online Processing System (TOPS) [Expert]
+•	Consolidated Eligibility Systems (CES) [Expert]
+
+Programming Languages & Tools
+•	Java, J2EE, Servlets, JDBC, JSP, EJB 2.0 JSP, JMS, WSAD 5.0, XML, Documentum
+•	Web Services, SOAP, RESTful Architecture
+•	Big Data Technologies (MongoDB, Hadoop, MapReduce), 
+•	IBM Datapower Appliance Xi50, 
+•	Websphere Message Broker 7.0 (WMB), Websphere Service Registry and Repository (WSRR), ESB (Enterprise Service Bus), IBM Websphere Application Server 6.1 / 7, BEA Weblogic 8.1 Portal Server, Spring 3, 
+•	Hibernate, JPA, Apache CXF Framework ,
+•	Ant, Maven, Checkstyle, Eclipse, Struts, C, C++, Tomcat
+
+Database Technologies
+•	Oracle 10g [Expert]
+•	MongoDB [Expert]
+•	IBM DB2 [Expert]
+•	Microsoft SQL Server 2005 [Proficient]
+•	Microsoft Access [Proficient]
+•	Hadoop [Proficient]

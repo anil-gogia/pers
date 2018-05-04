@@ -1,0 +1,121 @@
+Q1 Provide a detailed description as to why you have asked this applicant to come to the U.S. (e.g. implementation of new software, deployment of software enhancements, etc.) Why is this applicant needed in the U.S. at this time? Please be specific. 
+
+
+There is a critical initiative that utilizes new software and associated frameworks.  A major component of that being built out and requires heavy interaction with US-based product managers and other technical leads.  Almost all the discussions are taking place during eastern and central times, and are primary conducted in a face-to-face manner due to the sensitivity of the schedule around this initiative.
+
+We have asked Anil to come to the  US so that he can implement new software and also so that he will give training to onshore team members about AE mainframe environment implementation and about our AE United Programming Business services domain knowledge. Anil also has creativity and leadership qualities that will be useful to us.  He will share his experience about implementation of WebSphere Message Broker 7 to team members at onshore in order to teach our team in the US. He will also be testing our current services with Business and User and looking at new functionality of the product that might be useful to us in the development of our services for Business. We  want him to share his implementation knowledge about application toolkit, the AE Experience, because of his OSGI, Messaging and java knowledge, and would like to get his ideas on new functionality for the toolkit. We would also like him to be involved in the replacement of a CICS IBM to Unisys SB gateway with AE business services. The replacement will require that he attend meetings during our office hours in the US with his team members and Business in the US. And Migration of United Programming Model 2 to United Programming Model 3 and MINDI config app implementation in Production environment. Further Enhancement of Modular OSGI Runtime Container (MORC) and MORC Integration Director (MINDI) application Framework with client's requirements.
+
+====================================================================================================================================================================
+Q2 Provide a detailed description of the applicant’s prospective U.S. job duties related to the project/technology/application, noting the percentage of time spent on each duty. Where applicable, state why the applicant’s specialized knowledge is needed to perform these duties and explain why another person cannot perform these duties.
+
+
+Anil has strong technical background (technical architecture) in a number of the product areas that we are assessing and will be vital to the discussions we are having on the US-side (percentage of time spent on that is approximately 80%-85%).  He will also be instrumental in translating a lot of the discussion into technical specifications that the India based team can execute on (this will be the remaining 15%-20% of his time).
+
+ Anil will be working with team and business in migrating United Programming Model 2 to United Programming Model 3 about 20% of the time and working with MINDI config app implementation about 20% of the time. He has developed some of our UPM and WMB processes and has some good ideas of new development that we are interested in.   He will spend about 20% of his time on the AE experience for AeMqVisualizer tool, our application toolkit that includes log browsing and a mainframe test tool that he was the primary creator of initially.    We need his particular combination of Message Broker and java knowledge for the AE toolkit work.   He will spend about 20% of his time getting more familiar with the mainframe CICS environment so that he can use that knowledge in the development of other tooling or java services on the mainframe.     He has already been accessing the mainframe in order to help debug our services on occasion.   His combination of java and mainframe application - Foundation version 2 makes him valuable for learning more about CICS.   He will spend about his time working on the United Programming Model for replacement of a IBM to Unisys gateway with AE business services. He will spend 20% of his time with training other team members.
+
+====================================================================================================================================================================
+Q3 Using the chart below, compare the applicant’s experience to 1) others within the project/technology/application team in the U.S. and 2) other team members in the same or comparable job category (e.g. other Associate Leads) at the intended job location. How much experience do others have? What type of training do others have? Please be specific. USCIS is requesting that we compare the applicant’s experience and training to others at his/her level.
+
+
+Anil has a similar level of general education to others in his job category.    We require undergraduate degree in applicable area of expertise or equivalent experience around ( 5-10 years).    Anil is medical graduate with Engineering qualification and skills, came from another company where he already had Healthcare domain knowledge, WebSphere Message Broker training, Message Queue and Services where most employees here have little or no training in that area.   Most of the employees here have training in COBOL and are primarily mainframe developers.   The team that Anil will work on is an integration team that develops services that connect distributed and mainframe platforms.     We provide internal training to the team in AE business domain, mainframe environment and service setup,  WebSphere Message Broker, and MQ.  Anil has learned the AE domain knowledge since he is in Project for last 7+ years and one of the oldest team member we have in team. He is also self-taught in datapower and Infrastructure, which help us in implementation of MINDI in production environment. Only a handful of developers here in Minneapolis have this mix of business and technical skills. 
+
+
+
+====================================================================================================================================================================
+Q4 How many other individuals with the same/comparable jobs category as the applicant are employed at the U.S. location? Please provide job descriptions for others in similar positions. 
+
+-----
+There are 10 individuals at the U.S. location - some of them are considered development managers and delivery leads.
+
+From a similar job description - 
+"Positions in this function are predominantly involved in developing business solutions by creating new and modifying existing software applications.  Primary contributor in designing, coding, testing, debugging, documenting and supporting all types of applications consistent with established specifications and business requirements to deliver business value."     
+
+From General Profile - 
+ 
+-Company thought leader.
+- Functional SME.
+- Accustomed to broad business approach.
+- Resource to senior leadership.
+- Develops pioneering approaches to emerging industry trends.      
+
+From job scope description  
+- Predicts emerging customer needs and develops innovative solutions to meet them.
+- Solves unique and complex problems with broad impact on the business.
+- Participates in the development of business strategy.
+- Develops and manages business plans to achieve objectives.
+- Leads large, complex projects to achieve key business objectives.
+- Translates highly complex concepts in ways that can be understood by a variety of audiences.
+- Influences senior leadership to adopt new ideas, products, and/or approaches.
+- May have segment-wide impact.
+- Directs cross-functional and/or cross-segment teams.
+
+
+====================================================================================================================================================================
+Q5 How many other employees in the U.S. work on the project/technology application? How is this applicant different than these U.S. employees? 
+
+There are an estimated 60 employees in the US working on this entire project, but only about 4 that are in the role that we’re looking for Anil to fill.  Anil leads the India-based teams from a delivery standpoint and is best suited to communicate the technical specifications to the team members there.  After the migration and of UPM Framework and replacment of SB Gateway of this project on the US-side, the goal is to have him return to the team in India and drive delivery.
+He possesses leadership, creativity, and analytical skills that are only found in a few.
+====================================================================================================================================================================
+Q6 Why couldn’t the duties be completed by someone else in the U.S.? 
+
+
+The actual delivery and implementation will be done by the India-based team and so the leader over that team will be someone from India.
+
+Anil developed MINDI and leading Migration Framework from UPM2 to UPM3 application.    Anil also has the leadership skills necessary for transferring the knowledge of the new version of Message Broker to other employees.   He has the technical skills to assist with the replacement of a CICS to Unisys SB gateway with AE Message Broker services and a new mainframe infrastructure.   We need his creativity and technical expertise to develop new integration solutions.    
+
+====================================================================================================================================================================
+Q7 How will the applicant’s prospective duties compare to others at the U.S. location? 
+
+
+Anil will have the duties as far as application development and support, but he will be more heavily involved in new design,development,implementation and in training.   
+
+====================================================================================================================================================================Q8 Explain how the applicant’s internal training with a UHG company (or companies) outside the U.S. will be essential to this position in the U.S. 
+
+
+It is essential that the position in US be filled by the person who will be leading the India-based team.  The internal training associated with working with the team in India best positions Anil to fill this role.
+
+Anil has already trained in India for the previous version of United Programming Model.   He has worked with other team members in UHGIS who know java alone to learn the java that he has used to develop a desktop testing application.  He has trained also in our mainframe environment setup, in MQ, and in the development of Message Broker services.     
+
+====================================================================================================================================================================Q9 Will this applicant provide training to other employees in the U.S.? If so, please describe. 
+
+Yes, we expect that Anil will be training other employees in the US as well as employees in India.  He will train employees in best practices using United Programming Model, WebSphere Message Broker and will be developing new United Programming Model and Message Broker patterns to make service development go faster.    He will also be training in the replacement of the CICS to Unisys SN Gateway system.   Because his team in India has worked closely with several specialized application areas, we will use that knowledge to understand the problems that a mainframe developer may encounter using our services or our new tools.
+
+
+
+
+
+
+
+
+
+
+====================================================================================================================================================================
+
+Q10 Why is someone with advanced/specialized knowledge now needed to come to the U.S. to perform these duties? 
+
+Someone is needed to come to the US to perform these duties due to the nature of the project and the technologies being utilized, and the type of interactions that are required with US-based employees.
+Also We are looking forward to sharing knowledge with Anil.     We need his ideas for the application toolkit and his knowledge of United Programming Model 3, MINDI and WebSphere Message Broker 7.    We have a few team members in the US familiar with the toolkit, MQ, and testing tools but without project business and domain knowdledge.
+
+====================================================================================================================================================================
+Q11 How long would it take to train another applicant to perform these duties? 
+
+I do not believe that we could completely train another applicant to perform these duties.    We could train another applicant in a few months to develop a service, but the ability to develop a new service model is a skill that only a few have.    Anil, for the most part, has learned on his own.  It would take 6 months or more to train another applicant in replacing the CICS to Unisys SB gateway, and that applicant would not be making development suggestions. 
+====================================================================================================================================================================
+Q12 Describe the impact on the business if the applicant is unable to come to the U.S. What alternative action will be taken? 
+
+
+The work may need to be moved to a US-based team, or the project schedule may need to be adjusted – both of those would be extremely costly and damaging options.
+
+We will be set back in order migration of UPM2 to UPM3, development of WMB 7.    The new functionality available will not be used for a while if we don't have his input.    We also will not have the robust tooling that we would like to have so that we can encourage more mainframe applications to move to our new version of the mainframe infrastructure, Foundation 2, in a few months.     We will also not be able to replace the CICS to Unisys SB gateway right away since our current workload will keep everyone else too busy to work on new development.
+
+====================================================================================================================================================================
+Q13 Provide a detailed organizational chart showing the U.S. management structure that includes names and job titles. Please do not use abbreviations. Also, be sure that the names, job titles, etc. match the chart above.
+
+
+
+
+====================================================================================================================================================================
+
+
+
+
